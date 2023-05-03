@@ -1,0 +1,1487 @@
+
+
+
+
+
+
+<!DOCTYPE html">
+<html>
+<head>
+	<title>baydragon magic singles</title>
+  	<meta name="Description" content="Baydragon magic singles list">
+  	<meta name="Keywords" content="magic, singles">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	
+	<link type="text/css" rel="stylesheet" href="/resources/styles/baydragon.css">
+	<link type="text/css" rel="stylesheet" href="/resources/styles/html5.css">
+	<link type="text/css" rel="stylesheet" href="/resources/styles/page.css">
+
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	
+	<script 
+		src="https://code.jquery.com/jquery-1.12.4.min.js" 
+		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" 
+		crossorigin="anonymous"></script>
+	<script src="/resources/js/jquery/jquery-ui.min.js"></script>
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 877143959 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-877143959"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'AW-877143959'); </script>
+		
+</head>
+<body class="tundra spring" bgcolor="#ffffff" style="margin-left:0; margin-top: 0; margin-right: 0">
+
+<!--setup variables from tiles context in request-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--top-->
+<table class="templateNoBorder">
+  <tr class="black">
+    <td width="1%">&nbsp;</td>
+    <td>
+      
+
+
+<table class="templateNoBorder margin-top">
+  <tr class="black">
+    <td align="left" class="width90pc">
+      <a href="/">
+        <img alt="baydragon.co.nz" border="0" src="/resources/images/page/baydragon_logo.jpg"/>
+      </a>
+    </td>
+    <td>
+    	<div>
+            <div>
+            	
+    	          <a class="black" href="/signin">Sign in</a>
+    	          &nbsp;
+    	          <a class="black" href="/account/signup">Sign up</a>
+	            
+            </div>
+
+			<div class="clearer">&nbsp;</div>
+            
+    		<div class="floatLeft">
+            	<a class="black" href="/shoppingcart/summary">
+            		<span class="brAlert">Cart</span>
+	            </a>
+    		</div>
+           	
+    	</div>
+    </td>
+  </tr>
+</table>
+
+    </td>
+    <td width="1%">&nbsp;</td>
+  </tr>
+  <tr class="black">
+    <td colspan="3">
+		
+
+
+<STYLE type="text/css">
+<!--
+.secondLine A {FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, arial, helvetica, sans-serif}
+.secondLine A:link {FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none}
+.tabs {padding:0px;}
+.tabs A:link {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.tabs A:visited {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.tabs A:active {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.firstLine {FONT-SIZE: 13px; COLOR: #333; LINE-HEIGHT: 13px; FONT-FAMILY: tahoma,sans-serif; height: 27px; align: center;}
+.firstLine A:hover {TEXT-DECORATION: underline}
+.secondLine {BACKGROUND-IMAGE: url(/resources/images/page/tab/subnav-bg.gif)}
+.secondLine TD {BACKGROUND-IMAGE: none}
+.tabs .leftoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_leftoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .lefton {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_lefton.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .middleoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .middleon {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleon.gif); BACKGROUND-REPEAT: no-repeat; WHITE-SPACE: nowrap}
+.tabs .middleoffonleft {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleoffonleft.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .rightoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_rightoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .righton {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_righton.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs DIV {MARGIN-LEFT: 23px}
+-->
+</STYLE>
+
+<table class="templateNoBorder" style="border-collapse: collapse">
+  <tr>
+    <td class="tabs" align="center" valign="bottom">
+      <table class="firstLine" style="border-collapse: collapse;">
+        <tr>
+          
+            
+              <td class="lefton">
+                <div align="center"><a href="/tcg">Card Game</a>
+                </div>
+              </td>
+            
+            
+          
+          
+          
+            
+              <td class="middleoffonleft">
+                <div align="center"><a href="/spc">Sports Cards</a>
+                </div>
+              </td>
+            
+            
+            
+          
+          
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/miniature">Miniature</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/boardgame">Boardgame</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/events">Events</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/help/faq">Faq</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/help/contactus">Contact Us</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+            
+              <td class="middleoff">
+                <div align="center"><a href="/help/feedback">Feed Back</a>
+                </div>
+              </td>
+            
+          
+
+          
+            
+            
+              <td class="rightoff">
+                <div align="center">&nbsp;</div>
+              </td>
+            
+          
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+</table>
+
+
+		<table class="templateNoBorder" style="border-collapse: collapse">
+    		<tr bgcolor="#0000">
+      			<td class="secondLine" valign="bottom" height="35">
+        			<table class="templateNoBorder" style="border-collapse: collapse; border-spacing: 0px;">
+						<tr>
+							<td style="padding: 5px">
+								
+
+<div style="margin-left: 180px;">
+   	<a href="/category/01/brand/01/items">
+		<span class="confirm-subTitle">Magic the Gathering</span> 
+	</a>
+
+	
+	    <a class="margin-left10" href="/category/01/brand/01/sub/01/items">
+    		Sealed
+		</a>
+	
+	    <a class="margin-left10" href="/category/01/brand/01/sub/02/items">
+    		Others
+		</a>
+	
+
+	
+		<a class="margin-left10" href="/category/01/brand/01/singles">
+   			Singles
+		</a>
+	
+</div>
+
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+    </td>
+  </tr>
+</table>
+
+<table class="templateNoBorder">
+  <tr vAlign=top>
+    <td width=174>
+      <!--search-->
+      
+
+<table class="templateNoBorder" >
+  <tr>
+    <td width="1">&nbsp;</td>
+    <td>
+      
+      
+
+<div>
+    	<a href="/help/faq#bonus">
+			<img alt="baydragon.co.nz" border="0" src="/resources/images/page/sign/save.gif"/>
+		</a>
+</div>
+      <br />
+
+      
+      
+
+
+
+
+<script>
+$(function () {
+
+    $("#searchString").autocomplete({
+    	delay: 100,
+    	minLength: 1,
+    	select: function(event, ui) {
+        	if (ui.item) {
+        		$(event.target).val(ui.item.value);
+        	}
+        	$(event.target.form).submit();
+    	},
+		source: function (request, response) {
+            $.ajax({
+            	url: 
+            		($("#searchItem").is(':checked'))? 
+            				"/searchajaxitems/category/01/" 
+            				: 
+            				"/searchajaxsingles/category/01",
+            	dataType: "json",
+            	data: {userInput: request.term},
+				success: function (d) {
+                	response($.map(d, function(value, key){
+                    	return {
+                        	label: value.label,
+                            value: value.value
+                        };
+					}))
+                }
+			});
+		}
+	})
+	
+	$("#searchItem").on("click", function(event) {
+		$("#searchString").focus();
+	})
+
+	$("#searchSingle").on("click", function(event) {
+		$("#searchString").focus();
+	})
+})
+
+</script>
+
+	<div class="cBox cBox-menuHead">
+  		<div class="cBoxInner">
+  			
+	  			
+  				
+				<div class="no-decoration">
+					<a class="brMenu-head" style="color: white;" href="/searchsingle/category/01/brand/01?searchString=arid mesa">Searched</a>
+				</div>
+  				
+	  		
+        </div>
+	</div>
+
+	<div class="cBox cBox-normal">
+		<div class="cBoxInner">
+			<form action="/search/category/01">
+				<div>
+					<input type="radio" value="item" id="searchItem" name="searchType">
+					<label for="searchItem">Stock</label>
+					<input type="radio" value="single" id="searchSingle" name="searchType" checked="checked">
+					<label for="searchSingle">Single</label>
+				</div>
+				<div>
+					<input name="searchString" id="searchString" size="16"/>
+				</div>
+
+				<div>
+					<a class="notImportantSmall" href="/searchsingles/category/01">
+						Multiple Cards Search
+					</a>
+				</div>
+				<div>
+					<input class="btnSearch" type="submit" value="Go"/>
+				</div>
+			</form>
+		</div>
+	</div>	
+
+      
+      
+
+
+      <br/>
+
+      
+      
+
+
+<div class="cBox cBox-menuHead">
+	<div class="cBoxInner">
+		<div>
+			<span class="brMenu-head" style="color: white;">Browse</span>
+		</div>
+	</div>
+</div>
+
+<div class="cBox cBox-normal">
+	<div class="cBoxInner">
+		<p class="brSmallest">Huge selection of collectible cards in the
+			following categories</p>
+
+		<div class="menu">
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/26/items' class="brMenu-head"> <font
+						color="#cc6600">Digimon</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/15/items' class="brMenu-head"> <font
+						color="#cc6600">Dragon Ball Super</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/03/items' class="brMenu-head"> <font
+						color="#cc6600">Final Fantasy</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/24/items' class="brMenu-head"> <font
+						color="#cc6600">Key Forge</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/25/items' class="brMenu-head"> <font
+						color="#cc6600">Flesh and Blood</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/06/items' class="brMenu-head"> <font
+						color="#cc6600">Transformers</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/27/items' class="brMenu-head"> <font
+						color="#cc6600">MetaZoo</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/01/items' class="brMenu-head"> <font
+						color="#cc6600">Magic the Gathering</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/02/items' class="brMenu-head"> <font
+						color="#cc6600">YuGiOh!</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/05/items' class="brMenu-head"> <font
+						color="#cc6600">Pokemon</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/23/items' class="brMenu-head"> <font
+						color="#cc6600">Luck &amp; Logic</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/18/items' class="brMenu-head"> <font
+						color="#cc6600">Cardfight Vanguard</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/22/items' class="brMenu-head"> <font
+						color="#cc6600">Weiss Schwarz</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/20/items' class="brMenu-head"> <font
+						color="#cc6600">Buddyfight</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/19/items' class="brMenu-head"> <font
+						color="#cc6600">Kaijudo</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/10/items' class="brMenu-head"> <font
+						color="#cc6600">World of Warcraft</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/21/items' class="brMenu-head"> <font
+						color="#cc6600">Force of Will</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/04/items' class="brMenu-head"> <font
+						color="#cc6600">DragonBall Z</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/07/items' class="brMenu-head"> <font
+						color="#cc6600">VS System</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/16/items' class="brMenu-head"> <font
+						color="#cc6600">WWE</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/12/items' class="brMenu-head"> <font
+						color="#cc6600">Naruto</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/14/items' class="brMenu-head"> <font
+						color="#cc6600">Caribbean Pirates</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/09/items' class="brMenu-head"> <font
+						color="#cc6600">Inuyasha</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/11/items' class="brMenu-head"> <font
+						color="#cc6600">UFS</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/17/items' class="brMenu-head"> <font
+						color="#cc6600">Huntik</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/98/items' class="brMenu-head"> <font
+						color="#cc6600">Accessory Themed</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/99/items' class="brMenu-head"> <font
+						color="#cc6600">Accessory</font>
+					</a>
+				</p>
+			
+		</div>
+	</div>
+</div>
+
+
+    </td>
+  </tr>
+</table>
+    </td>
+    <td width=10>&nbsp;</td>
+    <td>
+    	
+    	<div class="margin-bottom5">
+			
+    	</div>
+    	
+
+		<!--3 pages book-->
+		<table id="book" style="border-collapse: separate; border-spacing: 0px; border: 0px;">
+		  <tr>
+		    <!-- BEGIN book tab -->
+
+<!--
+	page_start: fist page visible
+	page_end: last page visible
+	page_prevLit: whether the previous page is highlighted
+-->
+
+
+
+
+
+    
+    	
+    		
+    		
+    		
+    		
+    	
+    	
+    	
+    
+
+	
+		
+			
+		
+		
+
+		
+		
+		
+		
+			
+				
+					
+					<td class="pagelefton">
+						<a href="/searchsingle/category/01/brand/01?searchString=arid+mesa">
+							Singles
+						</a>
+					</td>
+				
+				
+			
+		
+		
+		
+	
+
+
+    
+    	
+    	
+    		
+    		
+    		
+    		
+    	
+    	
+    
+
+	
+		
+		
+
+		
+		
+		
+		
+		
+		
+			
+				
+					
+					<td class="pagemiddleoffonleft">
+						<a href="/search/category/01/brand/01/tradeinsingles?searchString=Narset">Sell to Baydragon</a>
+					</td>
+				
+				
+				
+			
+		
+	
+
+
+		
+			
+				
+				
+					<td class="pagerightoff">
+						<img src="/resources/images/page/tab/tabs_white_rightoff.gif" alt="" border="0" height="25" width="8">
+					</td>
+				
+			
+		    <!-- END book tab -->
+		  </tr>
+		</table>
+		
+		<table class="framesetting templateNoBorder">
+		  <tr>
+		    <td class="topleft" height="40" width="12"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="12" width="12"></td>
+		    <td class="top">
+				<!--option bar-->
+				
+
+
+		<div class="floatRight margin-right">
+			
+			
+			
+				
+			
+				<a href='/category/01/brand/01/justadded'>
+      				<font color="#cc6600">Just In</font>
+				</a>
+			
+		</div>
+
+		    </td>
+		    <td class="topright" width="15"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="15"></td>
+		  </tr>
+		
+		  <tr>
+		    <td class="left"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="12"></td>
+		    <td class="middle">
+		      <!-- Insert Page -->
+		      <br/>
+		      
+
+
+
+
+<STYLE type="text/css">
+.search td.colLeft {
+	width: 550px;
+}
+.search td.colRight {
+	width: 400px;
+}
+.tcgSingles td.colImage {
+	width: 70px;
+}
+</STYLE>
+
+<script>
+$(function () {
+
+    $("#search").autocomplete({
+    	delay: 100,
+    	minLength: 1,
+    	select: function(event, ui) {
+        	if (ui.item) {
+        		$(event.target).val(ui.item.value);
+        	}
+        	$(event.target.form).submit();
+    	},
+    	
+		source: function (request, response) {
+            $.ajax({
+            	url: "/searchajaxsingles/category/01/brand/01",
+            	dataType: "json",
+            	data: {userInput: request.term},
+				success: function (d) {
+                	response($.map(d, function(value, key){
+                    	return {
+                        	label: value.label,
+                            value: value.value
+                        };
+					}))
+                }
+			});
+		}
+	})
+})
+
+</script>
+
+<div id="mainBox">
+	<div id="mainBox-details">
+		<div class="margin-bottom">
+			
+				<div class="floatRight">
+					<span class="brTitle">Results</span>: 1 -
+					10 of 10&nbsp;&nbsp;
+				</div>
+			
+
+			<div class="margin-left">
+				<form
+					action="/searchsingle/category/01/brand/01">
+					<div>
+						<input id="search" name="searchString" size="50"> 
+						<input class="btnAction" type="submit" value="Search" />
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<form name="formSingles" method="post" action="/category/01/buyStockSingles">
+		<div id="tcgSingles">
+			
+			<input type="hidden" name="thisPage" value="/searchsingle/category/01/brand/01?searchString=arid+mesa">
+		
+			<table class="templateNoBorder">
+				<tbody>
+					<tr class="filledBlue margin-bottom">
+						<td class="colImage">&nbsp;</td>
+						<td class="brNormal bold">Name</td>
+						<td class="brNormal bold">Set</td>
+						<td class="brNormal bold">Rarity</td>
+						<td class="brNormal bold">Info</td>
+						<td class="brNormal bold">Condition</td>
+						<td class="brNormal bold">Price</td>
+						<td class="brNormal bold">Onhand</td>
+						<td class="brNormal bold">Buy</td>
+					</tr>
+
+					
+
+						
+						<tr >
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100087/8378'>
+											<img src="/resources/images/stock/01/single/8378_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100087/8378'>
+									Arid Mesa
+								</a>
+							</td>
+							<td>
+								Modern Legacy Singles
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$39.64</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr class="row-even">
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100141/16562'>
+											<img src="/resources/images/stock/01/single/16562_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100141/16562'>
+									Arid Mesa
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Modern Master 2017
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$56.87</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr >
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100141/16879'>
+											<img src="/resources/images/stock/01/single/16879_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100141/16879'>
+									Arid Mesa (foil)
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Modern Master 2017
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$83.99</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr class="row-even">
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100250/41610'>
+											<img src="/resources/images/stock/01/single/41610_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100250/41610'>
+									Arid Mesa
+								</a>
+							</td>
+							<td>
+								MTG Zendikar Rising Collector
+							</td>
+							<td>Mythic</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$64.55</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr >
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100274/49173'>
+											<img src="/resources/images/stock/01/single/49173_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100274/49173'>
+									Arid Mesa
+								</a>
+							</td>
+							<td>
+								Magic Modern Horizons 2 Draft Booster
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$32.27</td>
+							<td>
+								6
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_49173" value="mh2"/>
+										<input type="hidden" name="brand_49173" value="01"/>
+										<input type="hidden" name="sub_49173" value="01"/>
+										<input type="hidden" name="code_49173" value="00274"/>
+										<input type="hidden" name="releaseDate_49173" value="18062021"/>
+										<input type="hidden" name="name_49173" value="Arid Mesa"/>
+										<input type="hidden" name="weight_49173" value="0.002"/>
+										<input type="hidden" name="usPrice_49173" value="20.82"/>
+										<input type="hidden" name="sellRate_49173" value="1.55"/>
+										<input type="hidden" name="buyRate_49173" value="0.85"/>
+										<input type="hidden" name="opt2_code_49173" value="03"/>
+										<input type="hidden" name="opt2_desc_49173" value="Rare"/>
+										<input type="hidden" name="opt2_sortNo_49173" value="3"/>
+										<input type="hidden" name="opt3_code_49173" value="01"/>
+										<input type="hidden" name="opt3_desc_49173" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_49173" value="true"/>
+										<input type="hidden" name="foil_49173" value="false"/>
+										<input type="hidden" name="promo_49173" value="false"/>
+										<input type="hidden" name="type_49173" value="1"/>
+									
+										<input name="qty_49173" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr class="row-even">
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100274/49483'>
+											<img src="/resources/images/stock/01/single/49483_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100274/49483'>
+									Arid Mesa (Extended Art)
+								</a>
+							</td>
+							<td>
+								Magic Modern Horizons 2 Draft Booster
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$38.69</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr >
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100274/49275'>
+											<img src="/resources/images/stock/01/single/49275_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100274/49275'>
+									Arid Mesa (Retro Frame)
+								</a>
+							</td>
+							<td>
+								Magic Modern Horizons 2 Draft Booster
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$47.04</td>
+							<td>
+								2
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_49275" value="mh2"/>
+										<input type="hidden" name="brand_49275" value="01"/>
+										<input type="hidden" name="sub_49275" value="01"/>
+										<input type="hidden" name="code_49275" value="00274"/>
+										<input type="hidden" name="releaseDate_49275" value="18062021"/>
+										<input type="hidden" name="name_49275" value="Arid Mesa (Retro Frame)"/>
+										<input type="hidden" name="weight_49275" value="0.002"/>
+										<input type="hidden" name="usPrice_49275" value="30.35"/>
+										<input type="hidden" name="sellRate_49275" value="1.55"/>
+										<input type="hidden" name="buyRate_49275" value="0.85"/>
+										<input type="hidden" name="opt2_code_49275" value="03"/>
+										<input type="hidden" name="opt2_desc_49275" value="Rare"/>
+										<input type="hidden" name="opt2_sortNo_49275" value="3"/>
+										<input type="hidden" name="opt3_code_49275" value="01"/>
+										<input type="hidden" name="opt3_desc_49275" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_49275" value="true"/>
+										<input type="hidden" name="foil_49275" value="false"/>
+										<input type="hidden" name="promo_49275" value="false"/>
+										<input type="hidden" name="type_49275" value="1"/>
+									
+										<input name="qty_49275" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr class="row-even">
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100274/49918'>
+									Arid Mesa (Retro Frame) (foil)
+								</a>
+							</td>
+							<td>
+								Magic Modern Horizons 2 Draft Booster
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$59.33</td>
+							<td>
+								1
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_49918" value="mh2"/>
+										<input type="hidden" name="brand_49918" value="01"/>
+										<input type="hidden" name="sub_49918" value="01"/>
+										<input type="hidden" name="code_49918" value="00274"/>
+										<input type="hidden" name="releaseDate_49918" value="18062021"/>
+										<input type="hidden" name="name_49918" value="Arid Mesa (Retro Frame)"/>
+										<input type="hidden" name="weight_49918" value="0.002"/>
+										<input type="hidden" name="usPrice_49918" value="39.55"/>
+										<input type="hidden" name="sellRate_49918" value="1.5"/>
+										<input type="hidden" name="buyRate_49918" value="0.85"/>
+										<input type="hidden" name="opt2_code_49918" value="03"/>
+										<input type="hidden" name="opt2_desc_49918" value="Rare"/>
+										<input type="hidden" name="opt2_sortNo_49918" value="3"/>
+										<input type="hidden" name="opt3_code_49918" value="01"/>
+										<input type="hidden" name="opt3_desc_49918" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_49918" value="false"/>
+										<input type="hidden" name="foil_49918" value="true"/>
+										<input type="hidden" name="promo_49918" value="false"/>
+										<input type="hidden" name="type_49918" value="1"/>
+									
+										<input name="qty_49918" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr >
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100274/49740'>
+									Arid Mesa (Retro Frame) (Foil Etched)
+								</a>
+							</td>
+							<td>
+								Magic Modern Horizons 2 Draft Booster
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$46.69</td>
+							<td>
+								1
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_49740" value="mh2"/>
+										<input type="hidden" name="brand_49740" value="01"/>
+										<input type="hidden" name="sub_49740" value="01"/>
+										<input type="hidden" name="code_49740" value="00274"/>
+										<input type="hidden" name="releaseDate_49740" value="18062021"/>
+										<input type="hidden" name="name_49740" value="Arid Mesa (Retro Frame) (Foil Etched)"/>
+										<input type="hidden" name="weight_49740" value="0.002"/>
+										<input type="hidden" name="usPrice_49740" value="30.12"/>
+										<input type="hidden" name="sellRate_49740" value="1.55"/>
+										<input type="hidden" name="buyRate_49740" value="0.85"/>
+										<input type="hidden" name="opt2_code_49740" value="03"/>
+										<input type="hidden" name="opt2_desc_49740" value="Rare"/>
+										<input type="hidden" name="opt2_sortNo_49740" value="3"/>
+										<input type="hidden" name="opt3_code_49740" value="01"/>
+										<input type="hidden" name="opt3_desc_49740" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_49740" value="false"/>
+										<input type="hidden" name="foil_49740" value="false"/>
+										<input type="hidden" name="promo_49740" value="false"/>
+										<input type="hidden" name="type_49740" value="1"/>
+									
+										<input name="qty_49740" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr class="row-even">
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100115/11571'>
+											<img src="/resources/images/stock/01/single/11571_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100115/11571'>
+									Arid Mesa [Expeditions] (foil)
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Battle for Zendikar
+							</td>
+							<td>Mythic</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Land</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$209.99</td>
+							<td>
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+				</tbody>
+			</table>
+		</div>
+		<div class="floatRight">
+			<input class="btnShopping" type="submit" name="buySingles" value="Add to cart"/>
+		</div>
+		</form>
+
+		<!--Prev Page | Next Page 1 2 3 ... 11 -->
+		
+
+	<!--Prev Page | Next Page 1 2 3 ... 11 -->
+	<div id="pagn" class="pagn">
+				
+					
+						
+						
+							<span class="pagnDisabled">« Prev Page</span>
+						
+					
+					|
+					
+						
+						
+							<span class="pagnDisabled">Next Page »</span>
+						
+					
+					:
+				
+				
+				
+					
+						
+							<span class="pagnCur">1</span>
+						
+						
+					
+				&nbsp;
+				
+				
+				
+				
+	</div>
+
+
+		
+	</div>
+</div>
+
+
+		      <br/>
+		    </td>
+		    <td class="right"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="15"></td>
+		  </tr>
+		  <tr>
+		    <td class="bottomleft"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="12"></td>
+		    <td class="bottom"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="1"></td>
+		    <td class="bottomright"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="15"></td>
+		  </tr>
+		</table>
+      <!-- end of 3 pages book -->
+    </td>
+    <td width="10">&nbsp;</td>
+  </tr>
+</table>
+<br clear="all">
+
+
+
+<table class="template">
+  <tr>
+    <td align="center">
+		<div>
+			<table>
+				<tr>
+					<td class="br_smallprint"><strong>WE ACCEPT</strong></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" width="30" border="0"
+							src="/resources/images/page/sign/visa.gif">
+					</a></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" width="30" border="0"
+							src="/resources/images/page/sign/mcard.gif">
+					</a></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" border="0" width="30"
+							src="/resources/images/page/sign/amex.gif" />
+					</a></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" border="0"
+							src="/resources/images/page/sign/cash.gif"
+							title="Bank deposit or cheque">
+					</a></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" border="0"
+							src="/resources/images/afterpay/afterpay_loop.svg" />
+					</a></td>
+					<td width=30 height=19><a href="/help/faq#payment">
+							<img height="19" border="0"
+							src="/resources/images/laybuy/laybuy_logo.jpg" />
+					</a></td>
+				</tr>
+			</table>
+		</div>
+		<div class="brSmall">
+			<A href="/help/conditions">Conditions of Use</A> | <A
+				href="/help/privacy">Privacy Notice</A> &copy;
+			2004-2012, JF Cards Ltd.
+		</div>
+		<div class="brSmall">Botany Junction Shop: 41A, 277 Te
+			Irirangi Drive, Flat Bush, Auckland 2016, New Zealand. Ph 09 2799192
+		</div>
+					<div class="brSmall no-decoration">
+						<a
+							href="https://www.facebook.com/pages/Baydragon-NZ/217342234950696"
+							target="_blank" rel="noopener"> Find us on facebook <img alt="BaydragonNZ"
+							border="0"
+							src="/resources/images/page/sign/facebook.jpg" />
+						</a>
+					</div>
+    </td>
+    <td class="width180" align="right">
+				<img alt="baydragon.co.nz" border="0"
+					src="/resources/images/page/sign/WizIntRet.gif" />
+		</td>
+  </tr>
+</table>
+
+</body>
+</html>
