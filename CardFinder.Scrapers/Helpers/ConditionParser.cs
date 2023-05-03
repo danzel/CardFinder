@@ -23,10 +23,13 @@ public class DefaultConditionParser : IConditionParser
 		switch (conditionString)
 		{
 			case "Near Mint":
+			case "NM":
 				return Condition.NearMint;
 			case "Lightly Played":
+			case "SP":
 				return Condition.LightlyPlayed;
 			case "Moderately Played":
+			case "MP":
 				return Condition.ModeratelyPlayed;
 			case "Heavily Played":
 				return Condition.HeavilyPlayed;

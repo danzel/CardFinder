@@ -17,12 +17,8 @@ public class BayDragonCoNzScraperTests
 
 		var cards = await scraper.Scrape("Arid Mesa", CancellationToken.None);
 
+		Output.PrintResult(cards);
 		Assert.Equal(10, cards.Length);
-
-		foreach (var card in cards)
-		{
-			Console.WriteLine($"{card.CardName}|{card.Treatment}|{card.Condition}|{card.Currency}|{card.Price}|{card.Set}|{card.Stock}|{card.ProductUrl}|{card.ImageUrl}");
-		}
 
 		var c = cards[4];
 		Assert.Equal("Arid Mesa", c.CardName);
@@ -31,6 +27,5 @@ public class BayDragonCoNzScraperTests
 		Assert.Equal("Magic Modern Horizons 2 Draft Booster", c.Set);
 		Assert.Equal(6, c.Stock);
 		Assert.Equal(Treatment.Normal, c.Treatment);
-		//TODO
 	}
 }

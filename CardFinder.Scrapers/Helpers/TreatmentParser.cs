@@ -30,7 +30,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 		return res;
 	}
 
-	public Treatment CustomParse(string treatment)
+	public virtual Treatment CustomParse(string treatment)
 	{
 		throw new NotImplementedException($"Don't know this treatment: '{treatment}'");
 	}

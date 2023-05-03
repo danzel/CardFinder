@@ -2,5 +2,7 @@
 
 public interface IScraper
 {
-	public Task<CardDetails[]> Scrape(string searchCardName, CancellationToken cancellationToken = default);
+	static abstract string GetUrlForCardName(string searchCardName);
+
+	Task<CardDetails[]> Scrape(string searchCardName, CancellationToken cancellationToken = default);
 }
