@@ -27,7 +27,7 @@ namespace CardFinder.Scrapers.SingleSite
 			return SearchPageTemplate + Uri.EscapeDataString(searchCardName); ;
 		}
 
-		public async Task<CardDetails[]> Scrape(string searchCardName, CancellationToken cancellationToken)
+		public async Task<CardDetails[]> Scrape(string searchCardName, CancellationToken cancellationToken = default)
 		{
 			//Get the list page
 			string uri = GetUrlForCardName(searchCardName);
