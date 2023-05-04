@@ -61,6 +61,7 @@ public class BinderPosConditionParser : DefaultConditionParser
 	{
 		switch (conditionString.Trim())
 		{
+			case "Near Mint / Lightly Played": //Best quality
 			case "NM / SP": //Best quality
 				return Condition.NearMint;
 			case "Played": //Second best quality

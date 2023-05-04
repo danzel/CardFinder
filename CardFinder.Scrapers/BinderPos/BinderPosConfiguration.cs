@@ -37,6 +37,12 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration CardMerchantCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://cardmerchant.co.nz",
+		AdditionalQueryText = "+product_type%3AMTG+Single"
+	};
+
 	public static BinderPosConfiguration MagicAtWillisCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://magicatwillis.co.nz"
