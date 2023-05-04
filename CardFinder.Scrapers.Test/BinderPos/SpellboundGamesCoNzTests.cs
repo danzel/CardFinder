@@ -11,7 +11,7 @@ public class SpellboundGamesCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.SpellboundGamesCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.SpellboundGamesCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Arid Mesa"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.SpellboundGamesCoNz_AridMesa.txt"));
 		var cards = await scraper.Scrape("Arid Mesa", CancellationToken.None);
@@ -33,7 +33,7 @@ public class SpellboundGamesCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.SpellboundGamesCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.SpellboundGamesCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Lightning Bolt"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.SpellboundGamesCoNz_LightningBolt.txt"));
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);

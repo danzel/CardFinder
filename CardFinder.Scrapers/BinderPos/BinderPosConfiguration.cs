@@ -1,15 +1,22 @@
 ﻿namespace CardFinder.Scrapers.BinderPos;
 
+public enum BinderPosParseMode
+{
+	StockInChipsDataSet,
+	StockInOnClickJs
+}
 public record BinderPosConfiguration
 {
 	public required string UriRoot { get; init; }
+
+	public required BinderPosParseMode ParseMode { get; init; }
 
 	public required string AdditionalQueryText { get; init; }
 
 	public required string CardContainerSelector { get; init; }
 	public required string ProductTitleSelector { get; init; }
 	public required string PriceSelector { get; init; }
-	
+
 	public required string ChipSelector { get; init; }
 	public required string OutOfStockSelector { get; init; }
 	public required string SetNameSelector { get; init; }
@@ -20,11 +27,13 @@ public record BinderPosConfiguration
 	private static BinderPosConfiguration NzDefaults { get; } = new BinderPosConfiguration
 	{
 		UriRoot = null!,
+		ParseMode = BinderPosParseMode.StockInChipsDataSet,
 		AdditionalQueryText = "+product_type%3Amtg",
+
 		CardContainerSelector = ".productCard__card",
 		ProductTitleSelector = ".productCard__title",
 		PriceSelector = ".productCard__price",
-		
+
 		ChipSelector = ".productChip",
 		OutOfStockSelector = ".productCard__button--outOfStock",
 		SetNameSelector = ".productCard__setName",
@@ -56,6 +65,24 @@ public record BinderPosConfiguration
 	public static BinderPosConfiguration MagicAtWillisCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://magicatwillis.co.nz"
+	};
+
+	public static BinderPosConfiguration ShuffleAndCutGameCoNz { get; } = new BinderPosConfiguration
+	{
+		UriRoot = "https://www.shuffleandcutgames.co.nz",
+		ParseMode = BinderPosParseMode.StockInOnClickJs,
+		AdditionalQueryText = "+product_type%3Amtg",
+
+		CardContainerSelector = ".product.Norm",
+		ProductTitleSelector = ".productTitle",
+		PriceSelector = ".productPrice",
+
+		ChipSelector = ".addNow",
+		OutOfStockSelector = ".soldout",
+		SetNameSelector = null!,
+		ImageSelector = ".items-even",
+
+		Currency = CardFinder.Currency.NZD,
 	};
 
 	public static BinderPosConfiguration SpellboundGamesCoNz { get; } = NzDefaults with

@@ -11,7 +11,7 @@ public class MagicAtWillisCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.MagicAtWillisCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MagicAtWillisCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Lightning Bolt"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.MagicAtWillisCoNz_LightningBolt.txt"));
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);

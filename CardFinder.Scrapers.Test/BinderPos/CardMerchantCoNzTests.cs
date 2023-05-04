@@ -11,7 +11,7 @@ public class CardMerchantCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.CardMerchantCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.CardMerchantCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Onakke Ogre"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.CardMerchantCoNz_OnakkeOgre.txt"));
 		var cards = await scraper.Scrape("Onakke Ogre", CancellationToken.None);

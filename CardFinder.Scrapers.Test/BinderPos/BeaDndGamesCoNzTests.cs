@@ -11,7 +11,7 @@ public class BeaDndGamesCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.BeaDndGamesCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.BeaDndGamesCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Lightning Bolt"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.BeaDndGamesCoNz_LightningBolt.txt"));
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);

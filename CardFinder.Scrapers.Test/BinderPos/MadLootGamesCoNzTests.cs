@@ -11,7 +11,7 @@ public class MadLootGamesCoNzTests
 	{
 		var client = new Mock<ICachingHttpClient>();
 
-		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new DefaultTreatmentParser(), BinderPosConfiguration.MadLootGamesCoNz);
+		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MadLootGamesCoNz);
 
 		client.SetupHttpGet(scraper.GetUrlForCardName("Onakke Ogre"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.MadLootGamesCoNz_OnakkeOgre.txt"));
 		var cards = await scraper.Scrape("Onakke Ogre", CancellationToken.None);
