@@ -20,10 +20,11 @@ public class DefaultConditionParser : IConditionParser
 	/// <inheritdoc />
 	public Condition Parse(string conditionString)
 	{
-		switch (conditionString)
+		switch (conditionString.Trim())
 		{
 			case "Near Mint":
 			case "NM":
+			case "NM / SP": //BinderPos sites use this as their best quality
 				return Condition.NearMint;
 			case "Lightly Played":
 			case "SP":

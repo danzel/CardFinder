@@ -22,7 +22,7 @@ public class BayDragonCoNzScraper : IScraper
 		_treatmentParser = treatmentParser;
 	}
 
-	public static string GetUrlForCardName(string searchCardName)
+	public string GetUrlForCardName(string searchCardName)
 	{
 		return SearchPageTemplate + Uri.EscapeDataString(searchCardName); ;
 	}

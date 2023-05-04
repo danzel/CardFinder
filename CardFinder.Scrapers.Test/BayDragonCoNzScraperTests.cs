@@ -11,10 +11,10 @@ public class BayDragonCoNzScraperTests
 	public async Task Test1()
 	{
 		var client = new Mock<ICachingHttpClient>();
-		client.SetupHttpGet(BayDragonCoNzScraper.GetUrlForCardName("Arid Mesa"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.baydragonconz_search_aridmesa.txt"));
 
 		var scraper = new BayDragonCoNzScraper(NullLogger<BayDragonCoNzScraper>.Instance, client.Object, new DefaultConditionParser(), new DefaultTreatmentParser());
 
+		client.SetupHttpGet(scraper.GetUrlForCardName("Arid Mesa"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.baydragonconz_search_aridmesa.txt"));
 		var cards = await scraper.Scrape("Arid Mesa", CancellationToken.None);
 
 		Output.PrintResult(cards);

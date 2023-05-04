@@ -10,10 +10,10 @@ public class HobbyMasterCoNzScraperTests
 	public async Task Test1()
 	{
 		var client = new Mock<ICachingHttpClient>();
-		client.SetupHttpGet(HobbyMasterCoNzScraper.GetUrlForCardName("Arid Mesa"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.HobbyMasterCoNz.getcards_aridmesa.txt"));
 
 		var scraper = new HobbyMasterCoNzScraper(NullLogger<HobbyMasterCoNzScraper>.Instance, client.Object, new DefaultConditionParser(), new HobbyMasterTreatmentParser());
 
+		client.SetupHttpGet(scraper.GetUrlForCardName("Arid Mesa"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.HobbyMasterCoNz.getcards_aridmesa.txt"));
 		var cards = await scraper.Scrape("Arid Mesa", CancellationToken.None);
 
 		Output.PrintResult(cards);
@@ -40,10 +40,10 @@ public class HobbyMasterCoNzScraperTests
 	public async Task Test2()
 	{
 		var client = new Mock<ICachingHttpClient>();
-		client.SetupHttpGet(HobbyMasterCoNzScraper.GetUrlForCardName("Lightning Bolt"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.HobbyMasterCoNz.getcards_lightningbolt.txt"));
 
 		var scraper = new HobbyMasterCoNzScraper(NullLogger<HobbyMasterCoNzScraper>.Instance, client.Object, new DefaultConditionParser(), new HobbyMasterTreatmentParser());
 
+		client.SetupHttpGet(scraper.GetUrlForCardName("Lightning Bolt"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.HobbyMasterCoNz.getcards_lightningbolt.txt"));
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);
 
 		Output.PrintResult(cards);

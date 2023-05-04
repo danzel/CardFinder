@@ -21,6 +21,9 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"foil" => Treatment.Foil,
 				"foil etched" => Treatment.Foil | Treatment.Etched,
 				"jp alternate art" => Treatment.JapaneseAlternateArt,
+				"non english" => Treatment.NonEnglish,
+				"retro" => Treatment.RetroFrame,
+				"retro foil etched" => Treatment.RetroFrame | Treatment.Foil | Treatment.Etched,
 				"retro frame" => Treatment.RetroFrame,
 				"showcase" => Treatment.Showcase,
 				_ => CustomParse(treatment.ToLowerInvariant())

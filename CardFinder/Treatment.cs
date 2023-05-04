@@ -22,11 +22,16 @@ public enum Treatment
 	ArtCard = 1 << 13,
 
 	/// <summary>
+	/// Used on BinderPos sites
+	/// </summary>
+	NonEnglish = 1 << 14,
+
+	/// <summary>
 	/// Different for each set, usually a fancy border or alt art, or sketch art (mh2)
 	/// </summary>
-	Showcase = 1 << 14,
+	Showcase = 1 << 15,
 
-	Expeditions = 1 << 15,
-	Phyrexian = 1 << 16,
-	Schematic = 1 << 17,
+	Expeditions = 1 << 16,
+	Phyrexian = 1 << 17,
+	Schematic = 1 << 18,
 }

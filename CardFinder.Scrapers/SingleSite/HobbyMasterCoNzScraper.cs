@@ -21,7 +21,7 @@ public class HobbyMasterCoNzScraper : IScraper
 		_treatmentParser = treatmentParser;
 	}
 
-	public static string GetUrlForCardName(string searchCardName)
+	public string GetUrlForCardName(string searchCardName)
 	{
 		return GetCardsTemplate + Uri.EscapeDataString(searchCardName);
 	}
