@@ -24,6 +24,7 @@ public class DefaultConditionParser : IConditionParser
 		{
 			case "Near Mint":
 			case "NM":
+			case "NM-Mint":
 				return Condition.NearMint;
 			case "Lightly Played":
 			case "SP":
@@ -34,6 +35,7 @@ public class DefaultConditionParser : IConditionParser
 			case "Heavily Played":
 				return Condition.HeavilyPlayed;
 			case "Damaged":
+			case "Damage":
 				return Condition.Damaged;
 			default:
 				return CustomParse(conditionString);

@@ -17,14 +17,14 @@ public class GoblinGamesNzTests
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);
 
 		Output.PrintResult(cards);
-		Assert.Equal(90, cards.Length);
+		Assert.Equal(40, cards.Length);
 
-		var c = cards[0];
+		var c = cards[5];
 		Assert.Equal("Lightning Bolt", c.CardName);
 		Assert.Equal(Condition.NearMint, c.Condition);
-		Assert.Equal(3.4m, c.Price);
-		Assert.Equal("Strixhaven Mystical Archive", c.Set);
-		Assert.Equal(2, c.Stock);
-		Assert.Equal(Treatment.Normal, c.Treatment);
+		Assert.Equal(2.00m, c.Price);
+		Assert.Equal("Commander Legends: Battle for Baldur's Gate", c.Set);
+		Assert.Equal(1, c.Stock);
+		Assert.Equal(Treatment.Showcase | Treatment.Foil, c.Treatment);
 	}
 }

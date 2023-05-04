@@ -36,6 +36,8 @@ public class BinderPosScraper : IScraper
 		var context = BrowsingContext.New();
 		var document = await context.OpenAsync(req => req.Content(searchPage).Address(uri), cancellationToken);
 
+		//TODO: There can be multiple pages of results
+
 		var results = new List<CardDetails>();
 
 		var productDivs = document.QuerySelectorAll(_configuration.CardContainerSelector);
@@ -58,7 +60,7 @@ public class BinderPosScraper : IScraper
 			if (_configuration.Currency.HasValue)
 			{
 				currency = _configuration.Currency.Value;
-				defaultPriceStr = defaultPriceStr.Substring(1);
+				defaultPriceStr = defaultPriceStr[1..];
 			}
 			else if (defaultPriceStr.EndsWith("NZD"))
 			{
@@ -81,8 +83,9 @@ public class BinderPosScraper : IScraper
 					ParseStockInOnClickJs(ref results, cardName, div, treatment, set[0], currency);
 					break;
 				case BinderPosParseMode.StockInOptionsDropdown:
-					throw new NotImplementedException();
-					//ParseStockInOptionsDropdown(ref results, cardName, div, treatment, set[0], currency);
+					if (set.Length != 1)
+						throw new NotImplementedException($"Found more than one text in square brackets: '{string.Join(',', set)}'");
+					ParseStockInOptionsDropdown(ref results, cardName, div, treatment, set[0], currency);
 					break;
 				default:
 					throw new NotImplementedException(_configuration.ParseMode.ToString());
@@ -193,6 +196,36 @@ public class BinderPosScraper : IScraper
 					Stock = stock
 				});
 			}
+		}
+	}
+
+	private void ParseStockInOptionsDropdown(ref List<CardDetails> results, string cardName, IElement div, string[] treatment, string set, Currency currency)
+	{
+		var options = div.QuerySelectorAll(_configuration.ChipSelector).Cast<IHtmlOptionElement>().ToArray();
+
+		foreach (var option in options)
+		{
+			var amount = int.Parse(option.Dataset["available"]!);
+			var price = decimal.Parse(option.Dataset["price"]![1..]);
+
+			var condition = option.InnerHtml;
+			if (condition.EndsWith(" Foil"))
+			{
+				treatment = treatment.Concat(new[] { "Foil" }).ToArray();
+				condition = condition[..^5];
+			}
+
+			results.Add(new CardDetails
+			{
+				CardName = cardName,
+				Treatment = _treatmentParser.Parse(treatment),
+				Set = set,
+				ImageUrl = ((IHtmlImageElement)div.QuerySelector(_configuration.ImageSelector)!).Source,
+				ProductUrl = ((IHtmlAnchorElement)div.QuerySelector("a")!).Href,
+				Price = price,
+				Condition = _conditionParser.Parse(condition),
+				Stock = amount
+			});
 		}
 	}
 }

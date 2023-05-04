@@ -17,14 +17,14 @@ public class IronKnightGamingCoNzTests
 		var cards = await scraper.Scrape("Lightning Bolt", CancellationToken.None);
 
 		Output.PrintResult(cards);
-		Assert.Equal(90, cards.Length);
+		Assert.Equal(55, cards.Length);
 
-		var c = cards[0];
+		var c = cards[3];
 		Assert.Equal("Lightning Bolt", c.CardName);
-		Assert.Equal(Condition.NearMint, c.Condition);
-		Assert.Equal(3.4m, c.Price);
-		Assert.Equal("Strixhaven Mystical Archive", c.Set);
-		Assert.Equal(2, c.Stock);
+		Assert.Equal(Condition.HeavilyPlayed, c.Condition);
+		Assert.Equal(1.10m, c.Price);
+		Assert.Equal("Magic 2011", c.Set);
+		Assert.Equal(1, c.Stock);
 		Assert.Equal(Treatment.Normal, c.Treatment);
 	}
 }
