@@ -80,6 +80,10 @@ public class BinderPosScraper : IScraper
 						throw new NotImplementedException($"Found more than one text in square brackets: '{string.Join(',', set)}'");
 					ParseStockInOnClickJs(ref results, cardName, div, treatment, set[0], currency);
 					break;
+				case BinderPosParseMode.StockInOptionsDropdown:
+					throw new NotImplementedException();
+					//ParseStockInOptionsDropdown(ref results, cardName, div, treatment, set[0], currency);
+					break;
 				default:
 					throw new NotImplementedException(_configuration.ParseMode.ToString());
 			}
