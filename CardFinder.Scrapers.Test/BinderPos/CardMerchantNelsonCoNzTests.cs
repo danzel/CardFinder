@@ -13,7 +13,7 @@ public class CardMerchantNelsonCoNzTests
 
 		var scraper = new BinderPosScraper(NullLogger<BinderPosScraper>.Instance, client.Object, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.CardMerchantNelsonCoNz);
 
-		client.SetupHttpGet(scraper.GetUrlForCardName("Force Of Negation"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.CardMerchantNelsonCoNo_ForceOfNegation.txt"));
+		client.SetupHttpGet(scraper.GetUrlForCardName("Force Of Negation"), Resources.ReadResource("CardFinder.Scrapers.Test.Resources.BinderPos.CardMerchantNelsonCoNz_ForceOfNegation.txt"));
 		var cards = await scraper.Scrape("Force Of Negation", CancellationToken.None);
 
 		Output.PrintResult(cards);

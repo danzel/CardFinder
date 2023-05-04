@@ -90,6 +90,14 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration CardMerchantHamiltonCoNz { get; } = StockInOptionsDropdown with
+	{
+		UriRoot = "https://www.cardmerchanthamilton.co.nz",
+		Currency = CardFinder.Currency.NZD,
+
+		PriceSelector = ".qv-regularprice", //Unused in this mode
+	};
+
 	public static BinderPosConfiguration CardMerchantNelsonCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://cardmerchantnelson.co.nz",
