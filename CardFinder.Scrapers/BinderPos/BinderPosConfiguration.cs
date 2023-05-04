@@ -90,6 +90,12 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration CardMerchantNelsonCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://cardmerchantnelson.co.nz",
+		AdditionalQueryText = "+product_type%3AMTG+Single"
+	};
+
 	public static BinderPosConfiguration CardMerchantTakapunaCoNz { get; } = StockInOnClickJsNzDefaults with
 	{
 		UriRoot = "https://www.cardmerchanttakapuna.co.nz",
