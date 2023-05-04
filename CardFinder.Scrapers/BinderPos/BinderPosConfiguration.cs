@@ -96,6 +96,12 @@ public record BinderPosConfiguration
 		Currency = CardFinder.Currency.NZD,
 	};
 
+	public static BinderPosConfiguration GamingDnaCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://gamingdna.co.nz",
+		AdditionalQueryText = "+product_type%3AMTG+Single"
+	};
+
 	public static BinderPosConfiguration GoblinGamesNz { get; } = StockInOptionsDropdown with
 	{
 		UriRoot = "https://goblingames.nz",
