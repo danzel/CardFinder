@@ -40,6 +40,24 @@ public record BinderPosConfiguration
 		ImageSelector = ".productCard__img"
 	};
 
+	private static BinderPosConfiguration StockInOnClickJsNzDefaults { get; } = new BinderPosConfiguration
+	{
+		UriRoot = null!,
+		ParseMode = BinderPosParseMode.StockInOnClickJs,
+		AdditionalQueryText = "+product_type%3AMTG+Single",
+
+		CardContainerSelector = ".product.Norm",
+		ProductTitleSelector = ".productTitle",
+		PriceSelector = ".productPrice",
+
+		ChipSelector = ".addNow",
+		OutOfStockSelector = ".soldout",
+		SetNameSelector = null!,
+		ImageSelector = ".items-even",
+	};
+
+
+
 	public static BinderPosConfiguration BeaDndGamesCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://www.beadndgames.co.nz",
@@ -57,6 +75,12 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration CardMerchantTakapunaCoNz { get; } = StockInOnClickJsNzDefaults with
+	{
+		UriRoot = "https://www.cardmerchanttakapuna.co.nz",
+		Currency = CardFinder.Currency.NZD,
+	};
+
 	public static BinderPosConfiguration MadLootGamesCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://www.madlootgames.co.nz"
@@ -67,21 +91,9 @@ public record BinderPosConfiguration
 		UriRoot = "https://magicatwillis.co.nz"
 	};
 
-	public static BinderPosConfiguration ShuffleAndCutGameCoNz { get; } = new BinderPosConfiguration
+	public static BinderPosConfiguration ShuffleAndCutGameCoNz { get; } = StockInOnClickJsNzDefaults with
 	{
 		UriRoot = "https://www.shuffleandcutgames.co.nz",
-		ParseMode = BinderPosParseMode.StockInOnClickJs,
-		AdditionalQueryText = "+product_type%3Amtg",
-
-		CardContainerSelector = ".product.Norm",
-		ProductTitleSelector = ".productTitle",
-		PriceSelector = ".productPrice",
-
-		ChipSelector = ".addNow",
-		OutOfStockSelector = ".soldout",
-		SetNameSelector = null!,
-		ImageSelector = ".items-even",
-
 		Currency = CardFinder.Currency.NZD,
 	};
 
