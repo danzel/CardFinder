@@ -50,6 +50,11 @@ public class DefaultConditionParser : IConditionParser
 	}
 }
 
+/// <summary>
+/// Although all BinderPos sites use this, they have different sets of conditions they use on their site
+/// </summary>
+/// <example>BeaDndGamesCoNz - Near Mint, Lightly Played, Moderately Played, Heavily Played, Damaged</example>
+/// <example>SpellboundGamesCoNz - NM / SP, NM / SP Non English</example>
 public class BinderPosConditionParser : DefaultConditionParser
 {
 	protected override Condition CustomParse(string conditionString)

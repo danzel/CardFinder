@@ -31,6 +31,12 @@ public record BinderPosConfiguration
 		ImageSelector = ".productCard__img"
 	};
 
+	public static BinderPosConfiguration BeaDndGamesCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://www.beadndgames.co.nz",
+		AdditionalQueryText = "+product_type%3AMTG+Single"
+	};
+
 	public static BinderPosConfiguration MagicAtWillisCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://magicatwillis.co.nz"
