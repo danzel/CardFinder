@@ -37,6 +37,11 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration CalicoKeepCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://www.calicokeep.co.nz"
+	};
+
 	public static BinderPosConfiguration CardMerchantCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://cardmerchant.co.nz",
