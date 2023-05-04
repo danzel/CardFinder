@@ -48,6 +48,11 @@ public record BinderPosConfiguration
 		AdditionalQueryText = "+product_type%3AMTG+Single"
 	};
 
+	public static BinderPosConfiguration MadLootGamesCoNz { get; } = NzDefaults with
+	{
+		UriRoot = "https://www.madlootgames.co.nz"
+	};
+
 	public static BinderPosConfiguration MagicAtWillisCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://magicatwillis.co.nz"
