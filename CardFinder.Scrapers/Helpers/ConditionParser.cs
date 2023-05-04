@@ -24,7 +24,6 @@ public class DefaultConditionParser : IConditionParser
 		{
 			case "Near Mint":
 			case "NM":
-			case "NM / SP": //BinderPos sites use this as their best quality
 				return Condition.NearMint;
 			case "Lightly Played":
 			case "SP":
@@ -48,5 +47,21 @@ public class DefaultConditionParser : IConditionParser
 	protected virtual Condition CustomParse(string conditionString)
 	{
 		throw new NotImplementedException($"Don't know this condition: '{conditionString}'");
+	}
+}
+
+public class BinderPosConditionParser : DefaultConditionParser
+{
+	protected override Condition CustomParse(string conditionString)
+	{
+		switch (conditionString.Trim())
+		{
+			case "NM / SP": //Best quality
+				return Condition.NearMint;
+			case "Played": //Second best quality
+				return Condition.LightlyPlayed; //Maybe should be ModeratelyPlayed
+			default:
+				return base.CustomParse(conditionString);
+		}
 	}
 }

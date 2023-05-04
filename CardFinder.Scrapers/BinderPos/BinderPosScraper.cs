@@ -17,7 +17,7 @@ public class BinderPosScraper : IScraper
 	private readonly DefaultTreatmentParser _treatmentParser;
 	private readonly BinderPosConfiguration _configuration;
 
-	public BinderPosScraper(ILogger<BinderPosScraper> logger, ICachingHttpClient httpClient, DefaultConditionParser conditionParser, DefaultTreatmentParser treatmentParser, BinderPosConfiguration configuration)
+	public BinderPosScraper(ILogger<BinderPosScraper> logger, ICachingHttpClient httpClient, BinderPosConditionParser conditionParser, DefaultTreatmentParser treatmentParser, BinderPosConfiguration configuration)
 	{
 		_logger = logger;
 		_httpClient = httpClient;

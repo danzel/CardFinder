@@ -16,6 +16,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 			res |= treatment.ToLowerInvariant() switch
 			{
 				"borderless" => Treatment.Borderless,
+				"borderless alternate art" => Treatment.Borderless | Treatment.AlternateArt,
 				"expeditions" => Treatment.Expeditions,
 				"extended art" => Treatment.ExtendedArt,
 				"foil" => Treatment.Foil,
