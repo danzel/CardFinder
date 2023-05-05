@@ -29,6 +29,7 @@ public class DefaultConditionParser : IConditionParser
 			case "Lightly Played":
 			case "SP":
 				return Condition.LightlyPlayed;
+			case "PLD":
 			case "Played":
 				return Condition.Played;
 			case "Moderately Played":
