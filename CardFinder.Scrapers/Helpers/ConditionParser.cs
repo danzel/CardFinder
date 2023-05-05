@@ -29,6 +29,8 @@ public class DefaultConditionParser : IConditionParser
 			case "Lightly Played":
 			case "SP":
 				return Condition.LightlyPlayed;
+			case "Played":
+				return Condition.Played;
 			case "Moderately Played":
 			case "MP":
 				return Condition.ModeratelyPlayed;
@@ -66,8 +68,6 @@ public class BinderPosConditionParser : DefaultConditionParser
 			case "Near Mint / Lightly Played": //Best quality
 			case "NM / SP": //Best quality
 				return Condition.NearMint;
-			case "Played": //Second best quality
-				return Condition.LightlyPlayed; //Maybe should be ModeratelyPlayed
 			default:
 				return base.CustomParse(conditionString);
 		}

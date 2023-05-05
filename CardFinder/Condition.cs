@@ -12,6 +12,11 @@ public enum Condition
 	LightlyPlayed,
 
 	/// <summary>
+	/// Played (Usually used on sites that don't have Lightly Played)
+	/// </summary>
+	Played,
+
+	/// <summary>
 	/// Very Good / MP / Played
 	/// </summary>
 	ModeratelyPlayed,
