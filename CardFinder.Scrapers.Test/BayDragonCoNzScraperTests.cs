@@ -8,7 +8,7 @@ namespace CardFinder.Scrapers.Test;
 public class BayDragonCoNzScraperTests
 {
 	[Fact]
-	public async Task Test1()
+	public async Task AridMesa()
 	{
 		var client = new Mock<ICachingHttpClient>();
 

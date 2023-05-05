@@ -7,7 +7,7 @@ namespace CardFinder.Scrapers.Test;
 public class HobbyMasterCoNzScraperTests
 {
 	[Fact]
-	public async Task Test1()
+	public async Task AridMesa()
 	{
 		var client = new Mock<ICachingHttpClient>();
 
@@ -37,7 +37,7 @@ public class HobbyMasterCoNzScraperTests
 	}
 
 	[Fact]
-	public async Task Test2()
+	public async Task LightningBolt()
 	{
 		var client = new Mock<ICachingHttpClient>();
 

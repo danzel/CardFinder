@@ -29,6 +29,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"japanese" => Treatment.JapaneseAlternateArt,
 				"japanese etched foil" => Treatment.JapaneseAlternateArt | Treatment.Etched | Treatment.Foil,
 				"japanese foil etched" => Treatment.JapaneseAlternateArt | Treatment.Foil | Treatment.Etched,
+				"jpn alternate art" => Treatment.JapaneseAlternateArt,
 				"jp alternate art" => Treatment.JapaneseAlternateArt,
 				"non english" => Treatment.NonEnglish,
 				"not tournament legal" => Treatment.NotTournamentLegal,
@@ -62,6 +63,19 @@ public class BinderPosTreatmentParser : DefaultTreatmentParser
 		return base.CustomParse(treatment);
 	}
 }
+
+public class CardKingdomComTreatmentParser : DefaultTreatmentParser
+{
+	public override Treatment CustomParse(string treatment)
+	{
+		return treatment switch
+		{
+			_ when int.TryParse(treatment, out _) => 0, //Collector number
+			_ => base.CustomParse(treatment),
+		};
+	}
+}
+
 
 public class StarCityGamesComTreatmentParser : DefaultTreatmentParser
 {

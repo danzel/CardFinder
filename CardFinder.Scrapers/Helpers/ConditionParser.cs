@@ -74,3 +74,18 @@ public class BinderPosConditionParser : DefaultConditionParser
 		}
 	}
 }
+
+public class CardKingdomComConditionParser : IConditionParser
+{
+	public Condition Parse(string conditionString)
+	{
+		return conditionString switch
+		{
+			"NM" => Condition.NearMint,
+			"EX" => Condition.LightlyPlayed,
+			"VG" => Condition.ModeratelyPlayed,
+			"G" => Condition.HeavilyPlayed,
+			_ => throw new NotImplementedException($"Unknown Condition '{conditionString}'")
+		};
+	}
+}
