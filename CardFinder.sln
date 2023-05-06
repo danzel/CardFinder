@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardFinder", "CardFinder\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardFinder.Scrapers.Test", "CardFinder.Scrapers.Test\CardFinder.Scrapers.Test.csproj", "{BA45169E-57A0-4939-9FAD-AA024901661E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFinder.Scrapers.Test.Live", "CardFinder.Scrapers.Test.Live\CardFinder.Scrapers.Test.Live.csproj", "{C0056983-A401-46F4-9F49-652EDFDDD279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardFinder.Scrapers.Test.Live", "CardFinder.Scrapers.Test.Live\CardFinder.Scrapers.Test.Live.csproj", "{C0056983-A401-46F4-9F49-652EDFDDD279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFinder.BlazorApp", "CardFinder.BlazorApp\CardFinder.BlazorApp.csproj", "{0DE9C35D-F64B-448F-A1E6-AC2E72A702D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFinder.Solver", "CardFinder.Solver\CardFinder.Solver.csproj", "{663A7670-16AD-4359-BA58-98ED3DA47FDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C0056983-A401-46F4-9F49-652EDFDDD279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0056983-A401-46F4-9F49-652EDFDDD279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0056983-A401-46F4-9F49-652EDFDDD279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE9C35D-F64B-448F-A1E6-AC2E72A702D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE9C35D-F64B-448F-A1E6-AC2E72A702D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE9C35D-F64B-448F-A1E6-AC2E72A702D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE9C35D-F64B-448F-A1E6-AC2E72A702D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663A7670-16AD-4359-BA58-98ED3DA47FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663A7670-16AD-4359-BA58-98ED3DA47FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663A7670-16AD-4359-BA58-98ED3DA47FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663A7670-16AD-4359-BA58-98ED3DA47FDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

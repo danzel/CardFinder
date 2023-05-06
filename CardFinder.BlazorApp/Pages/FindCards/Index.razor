@@ -1,0 +1,22 @@
+﻿@page "/FindCards"
+
+<PageTitle>Find Cards</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Find Cards</MudText>
+<MudTextField T="string" Label="Cards" Variant="Variant.Text" @bind-Value="_cardsText" Lines="10" Placeholder="3 Lightning Bolt" Disabled="@_isWorking" />
+<MudButton Variant="Variant.Filled" Color="Color.Primary" FullWidth="true" Disabled="@_isWorking" OnClick="PerformSearch">@(_solverStatus ?? (_isWorking ? "Working?" : "Solve"))</MudButton>
+
+<MudProgressLinear Rounded="true" Size="Size.Medium" Color="Color.Primary" Striped="true" hidden="@(!_isWorking)" Value="@((_solvedPercent ?? 0) * 100)" />
+
+@if(_solverContext != null && _solverContext.Solution != null)
+{
+	var s = _solverContext.Solution;
+	foreach (var c in s.Cards)
+	{
+		<MudText Typo="Typo.h5">@c.Key</MudText>
+		@foreach (var v in c.Value)
+		{
+			<li>@(v.Store.Name + " / " + v.Card.Treatment + " @ " + v.Amount + " x $" + v.Card.Price)</li>
+		}
+	}
+}
