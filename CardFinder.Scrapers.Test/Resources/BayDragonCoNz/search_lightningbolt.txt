@@ -1,0 +1,2246 @@
+
+
+
+
+
+<!DOCTYPE html">
+<html lang="en">
+<head>
+	<title>Magic the Gathering singles - baydragon</title>
+	<meta charset="utf-8"/>
+  	<meta name="Description" content="Magic the Gathering singles">
+  	<meta name="Keywords" content="Magic the Gathering mtg, mtg booster, mtg decks, mtg booster box, mtg single cards, mtg singles, magic, matic the gathering, magic gathering, magic booster, magic decks, magic booster box, magic single cards, magic singl">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	
+	<link type="text/css" rel="stylesheet" href="/resources/styles/baydragon.css">
+	<link type="text/css" rel="stylesheet" href="/resources/styles/html5.css">
+	<link type="text/css" rel="stylesheet" href="/resources/styles/page.css">
+
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	
+	<script 
+		src="https://code.jquery.com/jquery-1.12.4.min.js" 
+		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" 
+		crossorigin="anonymous"></script>
+	<script src="/resources/js/jquery/jquery-ui.min.js"></script>
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 877143959 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-877143959"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'AW-877143959'); </script>
+
+<STYLE type="text/css">
+	.wrapper {
+		display: flex;
+		flex-flow: row wrap;
+	}
+
+	.wrapper > * {
+	  padding: 2px;
+	  flex: 1 100%;
+	}
+	
+	.aside {
+		display: flex;
+		flex-flow: column wrap;
+	}
+	
+	@media screen and (max-width: 768px) {
+		.wrapper > .aside {
+		    display: contents;
+		  }
+		.aside-1 { flex: 1 0 0; }
+		.aside-2 { flex: 1 0 0; }
+		
+		.aside-1	{ order: 1; } 
+		.main    	{ order: 2; }
+		.aside-2	{ order: 3; } 
+		.footer		{ order: 4; }
+	}
+
+	@media screen and (min-width: 769px) {
+		.aside   { flex: 0 0 205px;}
+		.main    { flex: 1 0; }
+
+		.aside   { order: 1; } 
+		.main    { order: 2; }
+		.footer  { order: 3; }
+	}
+</STYLE>
+		
+</head>
+<body class="tundra spring" bgcolor="#ffffff" style="margin-left:0; margin-top: 0; margin-right: 0">
+
+<!--setup variables from tiles context in request-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+
+	<div style="display:flex; flex-direction: column;">
+		<!--top-->
+		<div class="black">
+			<div style="padding:20px;" >
+				
+
+
+<div>
+	<div style="float:left;">
+      <a href="/">
+        <img alt="baydragon.co.nz" border="0" src="/resources/images/page/baydragon_logo.jpg"/>
+      </a>
+	</div>
+    <div style="float:right;">
+		<div>
+        	
+    	    	<a class="black" href="/signin">Sign in</a>
+    	    	&nbsp;
+    	    	<a class="black" href="/account/signup">Sign up</a>
+	        
+		</div>
+
+		<div class="clearer">&nbsp;</div>
+            
+		<div class="floatLeft">
+        	<a class="black" href="/shoppingcart/summary">
+            	<span class="brAlert">Cart</span>
+			</a>
+		</div>
+        
+    </div>
+</div>
+
+			</div>
+		</div>
+		<div style="display:flex; flex-direction: column;" class="black">
+			<div style="display:flex; justify-content: center;">
+				
+
+
+<STYLE type="text/css">
+<!--
+.secondLine A {FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, arial, helvetica, sans-serif}
+.secondLine A:link {FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none}
+.tabs {padding:0px;}
+.tabs A:link {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.tabs A:visited {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.tabs A:active {FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: 15px; FONT-FAMILY: tahoma, sans-serif; TEXT-DECORATION: none}
+.firstLine {FONT-SIZE: 13px; COLOR: #333; LINE-HEIGHT: 13px; FONT-FAMILY: tahoma,sans-serif; height: 27px; align: center;}
+.firstLine A:hover {TEXT-DECORATION: underline}
+.secondLine {BACKGROUND-IMAGE: url(/resources/images/page/tab/subnav-bg.gif)}
+.secondLine TD {BACKGROUND-IMAGE: none}
+.tabs .leftoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_leftoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .lefton {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_lefton.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .middleoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .middleon {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleon.gif); BACKGROUND-REPEAT: no-repeat; WHITE-SPACE: nowrap}
+.tabs .middleoffonleft {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_middleoffonleft.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .rightoff {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_rightoff.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs .righton {BACKGROUND-IMAGE: url(/resources/images/page/tab/tabs_black_righton.gif); BACKGROUND-REPEAT: no-repeat}
+.tabs div>div {margin-left: 22px; padding-top: 5px;}
+-->
+</STYLE>
+
+    <div style="display:flex; justify-content: space-around;" class="tabs firstLine">
+          
+            
+              <div class="lefton">
+              	<div style="margin-left:12px;">
+					<a href="/tcg">Card Game</a>
+              	</div>
+              </div>
+            
+            
+          
+
+          
+            
+              <div class="middleoffonleft">
+                <div><a href="/spc">Sports Cards</a>
+                </div>
+              </div>
+            
+            
+            
+          
+          
+          
+            
+            
+            
+              <div class="middleoff">
+                <div><a href="/miniature">Miniature</a>
+                </div>
+              </div>
+            
+          
+
+          
+            
+            
+            
+              <div class="middleoff">
+                <div><a href="/boardgame">Board Game</a>
+                </div>
+              </div>
+            
+          
+
+          
+            
+            
+            
+              <div class="middleoff">
+                <div><a href="/events">Events</a>
+                </div>
+              </div>
+            
+          
+
+          
+            
+            
+              <div class="rightoff">
+                <div>&nbsp;</div>
+              </div>
+            
+          
+    
+    </div>
+
+			</div>
+			<div style="display:flex; justify-content: center; align-items: center; height:35px; padding:5px; gap: 20px;" class="secondLine">
+				
+
+<div>
+   	<a href="/category/01/brand/01/items">
+		<span class="confirm-subTitle">Magic the Gathering</span> 
+	</a>
+
+	
+	    <a class="margin-left10" href="/category/01/brand/01/sub/01/items">
+    		Sealed
+		</a>
+	
+	    <a class="margin-left10" href="/category/01/brand/01/sub/02/items">
+    		Others
+		</a>
+	
+
+	
+		<a class="margin-left10" href="/category/01/brand/01/singles">
+   			Singles
+		</a>
+	
+</div>
+
+			</div>
+		</div>
+	</div>
+
+<main class="main">
+    	
+    	<div class="margin-bottom5">
+			
+    	</div>
+    	
+
+		<!--3 pages book-->
+		<table id="book" style="border-collapse: separate; border-spacing: 0px; border: 0px;">
+		  <tr>
+		    <!-- BEGIN book tab -->
+
+<!--
+	page_start: fist page visible
+	page_end: last page visible
+	page_prevLit: whether the previous page is highlighted
+-->
+
+
+
+
+
+    
+    	
+    		
+    		
+    		
+    		
+    	
+    	
+    	
+    
+
+	
+		
+			
+		
+		
+
+		
+		
+		
+		
+			
+				
+					
+					<td class="pagelefton">
+						<a href="/searchsingle/category/01/brand/01?searchString=lightning bolt">
+							Singles
+						</a>
+					</td>
+				
+				
+			
+		
+		
+		
+	
+
+
+    
+    	
+    	
+    		
+    		
+    		
+    		
+    	
+    	
+    
+
+	
+		
+		
+
+		
+		
+		
+		
+		
+		
+			
+				
+					
+					<td class="pagemiddleoffonleft">
+						<a href="/category/01/brand/01/tradeinsingles">Sell to Baydragon</a>
+					</td>
+				
+				
+				
+			
+		
+	
+
+
+		
+			
+				
+				
+					<td class="pagerightoff">
+						<img src="/resources/images/page/tab/tabs_white_rightoff.gif" alt="" border="0" height="25" width="8">
+					</td>
+				
+			
+		    <!-- END book tab -->
+		  </tr>
+		</table>
+		
+		<table class="framesetting templateNoBorder">
+		  <tr>
+		    <td class="topleft" height="40" width="12"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="12" width="12"></td>
+		    <td class="top">
+				<!--option bar-->
+				
+
+
+		<div class="floatRight margin-right">
+			
+			
+			
+				
+			
+				<a href='/category/01/brand/01/justadded'>
+      				<font color="#cc6600">Just In</font>
+				</a>
+			
+		</div>
+
+		    </td>
+		    <td class="topright" width="15"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="15"></td>
+		  </tr>
+		
+		  <tr>
+		    <td class="left"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="12"></td>
+		    <td class="middle">
+		      <!-- Insert Page -->
+		      <br/>
+		      
+
+
+
+
+<STYLE type="text/css">
+.tcgSingles td.colImage {
+	width: 70px;
+}
+
+@media only screen and (max-width: 750px) {
+#magicSingles tr > *:nth-child(n+5):nth-child(-n+6) {
+    display: none;
+}
+}
+
+</STYLE>
+
+<script>
+$(function () {
+
+    $("#search").autocomplete({
+    	delay: 100,
+    	minLength: 1,
+    	select: function(event, ui) {
+        	if (ui.item) {
+        		$(event.target).val(ui.item.value);
+        	}
+        	$(event.target.form).submit();
+    	},
+    	
+		source: function (request, response) {
+            $.ajax({
+            	url: "/searchajaxsingles/category/01/brand/01",
+            	dataType: "json",
+            	data: {userInput: request.term},
+				success: function (d) {
+                	response($.map(d, function(value, key){
+                    	return {
+                        	label: value.label,
+                            value: value.value
+                        };
+					}))
+                }
+			});
+		}
+	})
+})
+
+</script>
+
+<div id="mainBox">
+	<div id="mainBox-details">
+		<div class="margin-bottom">
+			
+				<div class="floatRight">
+					<span class="brTitle">Results</span>: 1 -
+					25 of 26&nbsp;&nbsp;
+				</div>
+			
+
+			<div class="margin-left">
+				<form
+					action="/searchsingle/category/01/brand/01">
+					<div>
+						<input id="search" name="searchString" size="50"> 
+						<input class="btnAction" type="submit" value="Search Magic the Gathering" />
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<form name="formSingles" method="post" action="/category/01/buyStockSingles">
+		<div id="tcgSingles">
+			
+			<input type="hidden" name="thisPage" value="/searchsingle/category/01/brand/01?searchString=lightning+bolt">
+		
+			<table id="magicSingles" class="templateNoBorder">
+				<tbody class="rowStripe">
+					<tr class="filledBlue margin-bottom">
+						<td class="colImage">&nbsp;</td>
+						<td class="brNormal bold">Name</td>
+						<td class="brNormal bold">Set</td>
+						<td class="brNormal bold">Rarity</td>
+						<td class="brNormal bold">Info</td>
+						<td class="brNormal bold">Condition</td>
+						<td class="brNormal bold">Price</td>
+						<td class="brNormal bold">Onhand</td>
+						<td class="brNormal bold">Buy</td>
+					</tr>
+
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100110/9465'>
+											<img src="/resources/images/stock/01/single/9465_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100110/9465'>
+									Lightning Bolt (foil)
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Modern Master 2015
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$6.01</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100110/9252'>
+											<img src="/resources/images/stock/01/single/9252_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100110/9252'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Modern Master 2015
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.75</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010200004/16527'>
+											<img src="/resources/images/stock/01/single/16527_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010200004/16527'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								The modern cards
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$7.18</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010200004/16642'>
+											<img src="/resources/images/stock/01/single/16642_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010200004/16642'>
+									Lightning Bolt (foil)
+								</a>
+							</td>
+							<td>
+								The modern cards
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$8.98</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100148/18471'>
+											<img src="/resources/images/stock/01/single/18471_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100148/18471'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Archenemy: Nicol Bolas
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$4.21</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100164/22154'>
+											<img src="/resources/images/stock/01/single/22154_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100164/22154'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Masters 25
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.16</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010200004/24600'>
+											<img src="/resources/images/stock/01/single/24600_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010200004/24600'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								The modern cards
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$7.18</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100164/33770'>
+									Lightning Bolt (foil)
+								</a>
+							</td>
+							<td>
+								Magic the Gathering Masters 25
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$5.40</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100247/40328'>
+											<img src="/resources/images/stock/01/single/40328_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100247/40328'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								MTG Jumpstart
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$4.50</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100270/47376'>
+											<img src="/resources/images/stock/01/single/47376_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100270/47376'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic Strixhaven: School of Mages Collector
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$7.79</td>
+							<td class="align-center">
+								1
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_47376" value="sta"/>
+										<input type="hidden" name="brand_47376" value="01"/>
+										<input type="hidden" name="sub_47376" value="01"/>
+										<input type="hidden" name="code_47376" value="00270"/>
+										<input type="hidden" name="releaseDate_47376" value="23042021"/>
+										<input type="hidden" name="name_47376" value="Lightning Bolt"/>
+										<input type="hidden" name="weight_47376" value="0.002"/>
+										<input type="hidden" name="usPrice_47376" value="4.33"/>
+										<input type="hidden" name="sellRate_47376" value="1.8"/>
+										<input type="hidden" name="buyRate_47376" value="0.85"/>
+										<input type="hidden" name="opt2_code_47376" value="03"/>
+										<input type="hidden" name="opt2_desc_47376" value="Rare"/>
+										<input type="hidden" name="opt2_sortNo_47376" value="3"/>
+										<input type="hidden" name="opt3_code_47376" value="01"/>
+										<input type="hidden" name="opt3_desc_47376" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_47376" value="true"/>
+										<input type="hidden" name="foil_47376" value="false"/>
+										<input type="hidden" name="promo_47376" value="false"/>
+										<input type="hidden" name="type_47376" value="1"/>
+									
+										<input name="qty_47376" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100328/63239'>
+											<img src="/resources/images/stock/01/single/63239_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100328/63239'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic Commander Legends: Battle for Baldur's Gate Draft Booster
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.33</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100335/95238'>
+											<img src="/resources/images/stock/01/single/95238_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100335/95238'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic Double Masters 2022 Draft Booster
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.65</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100335/95626'>
+									Lightning Bolt (foil)
+								</a>
+							</td>
+							<td>
+								Magic Double Masters 2022 Draft Booster
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.00</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100365/104742'>
+											<img src="/resources/images/stock/01/single/104742_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100365/104742'>
+									Lightning Bolt
+								</a>
+							</td>
+							<td>
+								Magic Game Night: Free-For-All
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$1.83</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100264/53253'>
+											<img src="/resources/images/stock/01/single/53253_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100264/53253'>
+									Lightning Bolt (A25)
+								</a>
+							</td>
+							<td>
+								The List
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$1.76</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100335/95447'>
+											<img src="/resources/images/stock/01/single/95447_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100335/95447'>
+									Lightning Bolt (Borderless)
+								</a>
+							</td>
+							<td>
+								Magic Double Masters 2022 Draft Booster
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$4.40</td>
+							<td class="align-center">
+								1
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_95447" value="2x2"/>
+										<input type="hidden" name="brand_95447" value="01"/>
+										<input type="hidden" name="sub_95447" value="01"/>
+										<input type="hidden" name="code_95447" value="00335"/>
+										<input type="hidden" name="releaseDate_95447" value="08072022"/>
+										<input type="hidden" name="name_95447" value="Lightning Bolt (Borderless)"/>
+										<input type="hidden" name="weight_95447" value="0.002"/>
+										<input type="hidden" name="usPrice_95447" value="2.38"/>
+										<input type="hidden" name="sellRate_95447" value="1.85"/>
+										<input type="hidden" name="buyRate_95447" value="0.75"/>
+										<input type="hidden" name="opt2_code_95447" value="02"/>
+										<input type="hidden" name="opt2_desc_95447" value="Uncommon"/>
+										<input type="hidden" name="opt2_sortNo_95447" value="2"/>
+										<input type="hidden" name="opt3_code_95447" value="01"/>
+										<input type="hidden" name="opt3_desc_95447" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_95447" value="true"/>
+										<input type="hidden" name="foil_95447" value="false"/>
+										<input type="hidden" name="promo_95447" value="false"/>
+										<input type="hidden" name="type_95447" value="1"/>
+									
+										<input name="qty_95447" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100335/95695'>
+									Lightning Bolt (Borderless) (foil)
+								</a>
+							</td>
+							<td>
+								Magic Double Masters 2022 Draft Booster
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$6.14</td>
+							<td class="align-center">
+								2
+							</td>
+							<td>
+								
+									
+										<input type="hidden" name="tinyDesc_95695" value="2x2"/>
+										<input type="hidden" name="brand_95695" value="01"/>
+										<input type="hidden" name="sub_95695" value="01"/>
+										<input type="hidden" name="code_95695" value="00335"/>
+										<input type="hidden" name="releaseDate_95695" value="08072022"/>
+										<input type="hidden" name="name_95695" value="Lightning Bolt (Borderless)"/>
+										<input type="hidden" name="weight_95695" value="0.002"/>
+										<input type="hidden" name="usPrice_95695" value="3.32"/>
+										<input type="hidden" name="sellRate_95695" value="1.85"/>
+										<input type="hidden" name="buyRate_95695" value="0.75"/>
+										<input type="hidden" name="opt2_code_95695" value="02"/>
+										<input type="hidden" name="opt2_desc_95695" value="Uncommon"/>
+										<input type="hidden" name="opt2_sortNo_95695" value="2"/>
+										<input type="hidden" name="opt3_code_95695" value="01"/>
+										<input type="hidden" name="opt3_desc_95695" value="Near Mint"/>
+										<input type="hidden" name="imageUploaded_95695" value="false"/>
+										<input type="hidden" name="foil_95695" value="true"/>
+										<input type="hidden" name="promo_95695" value="false"/>
+										<input type="hidden" name="type_95695" value="1"/>
+									
+										<input name="qty_95695" size="1" value="0" /> 
+									
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100225/42154'>
+									Lightning Bolt (E01)
+								</a>
+							</td>
+							<td>
+								Mystery Booster II
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.50</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100225/34251'>
+											<img src="/resources/images/stock/01/single/34251_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100225/34251'>
+									Lightning Bolt (E01)
+								</a>
+							</td>
+							<td>
+								Mystery Booster II
+							</td>
+							<td>Uncommon</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.50</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100270/47488'>
+									Lightning Bolt (Foil Etched)
+								</a>
+							</td>
+							<td>
+								Magic Strixhaven: School of Mages Collector
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$11.29</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100270/47412'>
+											<img src="/resources/images/stock/01/single/47412_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100270/47412'>
+									Lightning Bolt (JP Alternate Art)
+								</a>
+							</td>
+							<td>
+								Magic Strixhaven: School of Mages Collector
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											
+													
+														
+															
+																<img src="/resources/images/stock/01/010105.gif"
+																		title="Red">
+															
+														
+														
+													
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$36.00</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100270/47460'>
+									Lightning Bolt (JP Alternate Art) (Foil Etched)
+								</a>
+							</td>
+							<td>
+								Magic Strixhaven: School of Mages Collector
+							</td>
+							<td>Rare</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$26.55</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+										<a href='/category/01/brand/01/single/01010100328/63438'>
+											<img src="/resources/images/stock/01/single/63438_small.jpg" height="70" border="0">
+										</a>
+									
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100328/63438'>
+									Lightning Bolt (Showcase)
+								</a>
+							</td>
+							<td>
+								Magic Commander Legends: Battle for Baldur's Gate Draft Booster
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$1.25</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100328/63517'>
+									Lightning Bolt (Showcase) (foil)
+								</a>
+							</td>
+							<td>
+								Magic Commander Legends: Battle for Baldur's Gate Draft Booster
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li>Instant</li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$2.50</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+
+						
+						<tr>
+							<td>
+								
+									
+									
+										&nbsp;
+									
+								
+							</td>
+							<td>
+								<a href='/category/01/brand/01/single/01010100269/48206'>
+									Lightning Bolt Art Card
+								</a>
+							</td>
+							<td>
+								Magic Strixhaven: School of Mages Set Booster
+							</td>
+							<td>Common</td>
+							<td>
+									<ul>
+										<li>
+											</li>
+										<li></li>
+										<li></li>
+									</ul>
+							</td>
+							<td>Near Mint</td>
+							<td>NZ$0.86</td>
+							<td class="align-center">
+								0
+							</td>
+							<td>
+								
+									
+									
+										sold
+									
+								
+							</td>
+						</tr>
+					
+				</tbody>
+			</table>
+		</div>
+		<div class="floatRight">
+			<input class="btnShopping" type="submit" name="buySingles" value="Add to cart"/>
+		</div>
+		</form>
+
+		<!--Prev Page | Next Page 1 2 3 ... 11 -->
+		
+
+	<!--Prev Page | Next Page 1 2 3 ... 11 -->
+	<div id="pagn" class="pagn">
+				
+					
+						
+						
+							<span class="pagnDisabled">« Prev Page</span>
+						
+					
+					|
+					
+						
+							
+							<span>
+								<a title="Next page" href="/searchsingle/category/01/brand/01?start=25&searchString=lightning+bolt">Next Page »</a>
+							</span>
+						
+						
+					
+					:
+				
+				
+				
+					
+						
+							<span class="pagnCur">1</span>
+						
+						
+					
+				
+					
+						
+						
+							
+							<span>
+								<a href="/searchsingle/category/01/brand/01?start=25&searchString=lightning+bolt">2</a>
+							</span>
+						
+					
+				&nbsp;
+				
+				
+				
+				
+	</div>
+
+
+		
+	</div>
+</div>
+
+
+		      <br/>
+		    </td>
+		    <td class="right"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="1" width="15"></td>
+		  </tr>
+		  <tr>
+		    <td class="bottomleft"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="12"></td>
+		    <td class="bottom"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="1"></td>
+		    <td class="bottomright"><img src="/resources/images/page/tab/spacer.gif" alt="" border="0" height="19" width="15"></td>
+		  </tr>
+		</table>
+      <!-- end of 3 pages book -->
+</main>
+
+	<div class="aside">
+		<div class="aside-1">
+			
+
+
+
+
+<script>
+$(function () {
+
+    $("#searchString").autocomplete({
+    	delay: 100,
+    	minLength: 1,
+    	select: function(event, ui) {
+        	if (ui.item) {
+        		$(event.target).val(ui.item.value);
+        	}
+        	$(event.target.form).submit();
+    	},
+		source: function (request, response) {
+            $.ajax({
+            	url: 
+            		($("#searchItem").is(':checked'))? 
+            				"/searchajaxitems/category/01/" 
+            				: 
+            				"/searchajaxsingles/category/01",
+            	dataType: "json",
+            	data: {userInput: request.term},
+				success: function (d) {
+                	response($.map(d, function(value, key){
+                    	return {
+                        	label: value.label,
+                            value: value.value
+                        };
+					}))
+                }
+			});
+		}
+	})
+	
+	$("#searchItem").on("click", function(event) {
+		$("#searchString").focus();
+	})
+
+	$("#searchSingle").on("click", function(event) {
+		$("#searchString").focus();
+	})
+})
+
+</script>
+
+	<div class="cBox cBox-menuHead">
+  		<div class="cBoxInner">
+  			
+	  			
+  				
+				<div class="no-decoration">
+					<a class="brMenu-head" style="color: white;" href="/searchsingle/category/01/brand/01?searchString=lightning bolt">Searched</a>
+				</div>
+  				
+	  		
+        </div>
+	</div>
+
+	<div class="cBox cBox-normal">
+		<div class="cBoxInner">
+			<form action="/search/category/01">
+				<div>
+					<input type="radio" value="item" id="searchItem" name="searchType">
+					<label for="searchItem">Stock</label>
+					<input type="radio" value="single" id="searchSingle" name="searchType" checked="checked">
+					<label for="searchSingle">Single</label>
+				</div>
+				<div>
+					<input name="searchString" id="searchString" size="22"/>
+					<input class="btnAction" type="submit" value="Search Site"/>
+				</div>
+			</form>
+		</div>
+	</div>	
+
+		</div>
+
+		<div class="aside-2">
+			
+
+<div>
+	
+	
+
+
+
+	
+	
+
+
+<div class="cBox cBox-menuHead">
+	<div class="cBoxInner">
+		<div>
+			<span class="brTitle" style="color: white;">Browse</span>
+		</div>
+	</div>
+</div>
+
+<div class="cBox cBox-normal">
+	<div class="cBoxInner">
+		<p class="brSmallest">Huge selection of collectible cards in the
+			following categories</p>
+
+		<div class="menu">
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/19/items'> <font
+						color="#cc6600">Other Tcg</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/12/items'> <font
+						color="#cc6600">One Piece</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/08/items'> <font
+						color="#cc6600">Battle Spirits Saga</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/02/items'> <font
+						color="#cc6600">YuGiOh!</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/05/items'> <font
+						color="#cc6600">Pokemon</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/01/items'> <font
+						color="#cc6600">Magic the Gathering</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/15/items'> <font
+						color="#cc6600">Dragon Ball Super</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/26/items'> <font
+						color="#cc6600">Digimon</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/22/items'> <font
+						color="#cc6600">Weiss Schwarz</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/09/items'> <font
+						color="#cc6600">Shadowverse Evolve</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/18/items'> <font
+						color="#cc6600">Cardfight Vanguard</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/25/items'> <font
+						color="#cc6600">Flesh and Blood</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/03/items'> <font
+						color="#cc6600">Final Fantasy</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/21/items'> <font
+						color="#cc6600">Force of Will</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/27/items'> <font
+						color="#cc6600">MetaZoo</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/23/items'> <font
+						color="#cc6600">Luck & Logic</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/20/items'> <font
+						color="#cc6600">Buddyfight</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/24/items'> <font
+						color="#cc6600">Key Forge</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/17/items'> <font
+						color="#cc6600">Huntik</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/04/items'> <font
+						color="#cc6600">DragonBall Z</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/06/items'> <font
+						color="#cc6600">Transformers</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/07/items'> <font
+						color="#cc6600">VS System</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/10/items'> <font
+						color="#cc6600">World of Warcraft</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/11/items'> <font
+						color="#cc6600">UFS</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/14/items'> <font
+						color="#cc6600">Caribbean Pirates</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/16/items'> <font
+						color="#cc6600">WWE</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/98/items'> <font
+						color="#cc6600">Accessory Themed</font>
+					</a>
+				</p>
+			
+				<p class="brMenu-line">
+					
+					<a href='/category/01/brand/99/items'> <font
+						color="#cc6600">Accessory</font>
+					</a>
+				</p>
+			
+		</div>
+	</div>
+</div>
+
+
+			
+	
+
+<div class="ad" align="center">
+    	<a href="/help/faq#bonus">
+			<img alt="baydragon.co.nz" border="0" src="/resources/images/page/sign/save.gif"/>
+		</a>
+</div>
+</div>
+		</div>
+
+	</div>
+
+<footer class="footer">
+	<!--bottom-->
+	
+
+<STYLE type="text/css">
+<!--
+.tabs div>div {margin-left: 22px; padding-top: 5px;}
+-->
+</STYLE>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;" class="margin-bottom5">
+	<div class="no-decoration">
+		<ul>
+			<li class="menu_title">
+				<font color="#cc6600">Our Shop</font>
+			</li>
+			<li class="menu_line">Baydragon</li>
+			<li class="menu_line">Unit 41a, 277 Te Irirangi Drive</li>
+			<li class="menu_line">Flat Bush, Auckland</li>
+			<li class="menu_line">2019</li>
+			<li class="menu_line">Ph: 09 2799192</li>
+			<li class="menu_line">email: info@baydragon.co.nz</li>
+		</ul>
+	</div>
+
+	<div class="no-decoration">
+		<ul>
+			<li class="menu_title">
+				<font color="#cc6600">Opening Hours</font>
+			</li>
+			<li class="menu_line">Mon - Thu: 11am to 6pm</li>
+			<li class="menu_line">Fri: 11am to 10pm</li>
+			<li class="menu_line">Sat, Sun: 10am to 6pm</li>
+		</ul>
+	</div>
+
+	<div class="no-decoration">
+		<div class="margin-bottom5">
+		<ul>
+			<li class="menu_title"><font color="#cc6600">General</font></li>
+			<li class="menu-line"><a href="/help/faq">FAQs</a></li>
+			<li class="menu-line"><a href="/help/contactus">Send us an email</a></li>
+		</ul>
+		</div>
+		
+		<ul>
+			<li class="menu_title">
+				<font color="#cc6600">Social Media</font>
+			</li>
+			<li>
+				<a
+					href="https://www.facebook.com/pages/Baydragon-NZ/217342234950696"
+					target="_blank" rel="noopener"> Find us on facebook <img alt="BaydragonNZ"
+					border="0"
+					src="/resources/images/page/sign/facebook.jpg" />
+				</a>
+			</li>
+			<li><a href="/newsletter/signup">Subscribe to newsletter</a></li>
+		</ul>
+	</div>
+
+	<div style="display: flex; flex-direction: column; justify-content: center;">
+	<div style="display: flex; justify-content: center;">
+		<div class="br_smallprint bold">WE ACCEPT&nbsp;&nbsp; </div>
+		<div style="padding:2px;">
+		<a href="/help/faq#payment">
+			<img height="19" width="30" border="0"
+				src="/resources/images/page/sign/visa.gif">
+		</a></div>
+		<div style="padding:2px;">
+		<a href="/help/faq#payment">
+			<img height="19" width="30" border="0"
+				src="/resources/images/page/sign/mcard.gif">
+		</a>
+		</div>
+		<div style="padding:2px;">
+		<a href="/help/faq#payment">
+			<img height="19" border="0" width="30"
+				src="/resources/images/page/sign/amex.gif" />
+		</a>
+		</div>
+		<div style="padding:2px;">
+			<a href="/help/faq#payment">
+				<img height="19" border="0"
+					src="/resources/images/page/sign/cash.gif"
+					title="Bank deposit">
+			</a>
+		</div>
+		<div style="padding:2px;">
+			<a href="/help/faq#payment">
+				<img height="19" border="0"
+					src="/resources/images/afterpay/afterpay_loop.svg" />
+			</a>
+		</div>
+		<div style="padding:2px;">
+			<a href="/help/faq#payment">
+				<img height="19" border="0"
+					src="/resources/images/laybuy/laybuy_logo.jpg" />
+			</a>
+		</div>
+		<div style="padding:2px;">
+			<a href="/help/faq#payment">
+				<img height="19" border="0"
+					src="/resources/images/zip/zip-logo.svg" />
+			</a>
+		</div>
+	</div>
+		<div class="no-decoration" align="center">
+			<A href="/help/conditions">Conditions of Use</A> | <A
+				href="/help/privacy">Privacy Notice</A> &copy;
+			2004-2022, Baydragon
+		</div>
+	</div>
+</div>
+
+
+
+
+</footer>
+</div>
+
+</body>
+</html>

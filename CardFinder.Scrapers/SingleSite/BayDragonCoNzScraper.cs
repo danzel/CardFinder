@@ -43,13 +43,19 @@ public class BayDragonCoNzScraper : IScraper
 		foreach (var tr in document.QuerySelectorAll("div#tcgSingles tr:not(:first-child)"))
 		{
 			var (cardName, treatments, bonusTreatments) = CardNameHelpers.SplitCardNameAndBracketedText(tr.Children[1].TextContent.Trim());
-
+			var set = tr.Children[2].TextContent.Trim();
 			var imageNode = tr.Children[0].FirstElementChild?.FirstElementChild;
 
 			if (!CardNameHelpers.CardNameMatches(searchCardName, cardName))
 			{
 				_logger.LogDebug("Skipping name not matching '{cardName}'", cardName);
 				continue;
+			}
+
+			if (set == "The List" || set.StartsWith("Mystery Booster", StringComparison.InvariantCultureIgnoreCase))
+			{
+				set += " " + string.Join(", ", treatments);
+				treatments = Array.Empty<string>();
 			}
 
 
@@ -61,7 +67,7 @@ public class BayDragonCoNzScraper : IScraper
 				Condition = _conditionParser.Parse(tr.Children[5].TextContent.Trim()),
 				Price = decimal.Parse(tr.Children[6].TextContent.Trim().Replace("NZ$", "")),
 				Currency = Currency.NZD,
-				Set = tr.Children[2].TextContent.Trim(),
+				Set = set,
 				Stock = int.Parse(tr.Children[7].TextContent.Trim()),
 
 				ProductUrl = ((IHtmlAnchorElement)tr.Children[1].FirstElementChild!).Href,
