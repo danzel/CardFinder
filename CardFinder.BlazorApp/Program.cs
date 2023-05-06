@@ -2,6 +2,7 @@ using CardFinder.Scrapers;
 using CardFinder.Solver;
 using Microsoft.AspNetCore.Hosting.StaticWebAssets;
 using MudBlazor.Services;
+using NeoSmart.Caching.Sqlite;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,8 +16,8 @@ builder.Services.AddMudServices();
 builder.Services.AddSingleton<StoreFactory>();
 builder.Services.AddSingleton<ScraperFactory>();
 builder.Services.AddHttpClient();
-//TODO: Replace with one that caches for 24hrs
-builder.Services.AddSingleton<ICachingHttpClient, DirectHttpClient>();
+builder.Services.AddSqliteCache(o => { o.CachePath = "cache.sqlite"; o.CleanupInterval = TimeSpan.FromHours(1); });
+builder.Services.AddSingleton<ICachingHttpClient, CachingHttpClient>();
 
 
 var app = builder.Build();

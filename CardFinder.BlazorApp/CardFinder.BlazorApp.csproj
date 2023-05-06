@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="6.2.3" />
+    <PackageReference Include="NeoSmart.Caching.Sqlite" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
