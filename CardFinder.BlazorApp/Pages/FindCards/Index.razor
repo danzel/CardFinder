@@ -19,4 +19,14 @@
 			<li>@(v.Store.Name + " / " + v.Card.Treatment + " @ " + v.Amount + " x $" + v.Card.Price)</li>
 		}
 	}
+	<hr/>
+	foreach (var g in _solverContext.CardsAtEachStore.SelectMany(kvp => kvp.Value.SelectMany(x => x).Select(x => (kvp.Key, x))).GroupBy(x => x.x.CardName))
+	{
+		<MudText Typo="Typo.h5">@g.Key</MudText>
+		@foreach (var c in g)
+		{
+			<li>@(c.Key.Name + " / " + c.x.Set + " (" + c.x.Treatment + ") @ " + c.x.Stock + " x $" + c.x.Price)</li>
+		}
+
+	}
 }
