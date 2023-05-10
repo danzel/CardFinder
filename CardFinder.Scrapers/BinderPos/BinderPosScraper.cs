@@ -112,6 +112,7 @@ public class BinderPosScraper : IScraper
 
 				var condition = chip.Dataset["varianttitle"]!;
 				var ourTreatment = treatment;
+				var set = div.QuerySelector(_configuration.SetNameSelector)!.TextContent.Trim();
 
 				if (condition.Contains("foil", StringComparison.InvariantCultureIgnoreCase))
 				{
@@ -123,12 +124,13 @@ public class BinderPosScraper : IScraper
 					ourTreatment = ourTreatment.Concat(new[] { "non english" }).ToArray();
 					condition = condition[..^12];
 				}
+				HandleSpecialSets(ref ourTreatment, ref set);
 
 				results.Add(new CardDetails
 				{
 					CardName = cardName,
 					Treatment = _treatmentParser.Parse(ourTreatment),
-					Set = div.QuerySelector(_configuration.SetNameSelector)!.TextContent.Trim(),
+					Set = set,
 					ImageUrl = "https:" + ((IHtmlImageElement)div.QuerySelector(_configuration.ImageSelector)!).Dataset["src"],
 					ProductUrl = ((IHtmlAnchorElement)div.QuerySelector("a")!).Href,
 					Currency = currency,
@@ -144,17 +146,34 @@ public class BinderPosScraper : IScraper
 	{
 		var chips = div.QuerySelectorAll(_configuration.ChipSelector).Cast<IHtmlDivElement>().ToArray();
 
+		static void HandleTreatmentAndCondition(ref string condition, ref string[] ourTreatment, ref string set)
+		{
+			//"Near Mint Foil"
+			if (condition.ToLower().Contains("foil"))
+			{
+				ourTreatment = ourTreatment.Concat(new[] { "Foil" }).ToArray();
+				condition = condition.Replace("FOIL", "").Replace("Foil", "").Replace("foil", "").Trim();
+			}
+			HandleSpecialSets(ref ourTreatment, ref set);
+		}
+
 		if (chips.Length == 0)
 		{
 			//No stock
 			if (div.QuerySelector(_configuration.OutOfStockSelector) == null)
 				throw new NotImplementedException("Expected an out of stock element as there are no chips");
 
+			var condition = "";
+			var ourTreatment = treatment;
+			var ourSet = set;
+
+			HandleTreatmentAndCondition(ref condition, ref ourTreatment, ref ourSet);
+
 			results.Add(new CardDetails
 			{
 				CardName = cardName,
-				Treatment = _treatmentParser.Parse(treatment),
-				Set = set,
+				Treatment = _treatmentParser.Parse(ourTreatment),
+				Set = ourSet,
 				ImageUrl = ((IHtmlImageElement)div.QuerySelector(_configuration.ImageSelector)!).Source,
 				ProductUrl = ((IHtmlAnchorElement)div.QuerySelector("a")!).Href,
 				Currency = currency,
@@ -175,19 +194,15 @@ public class BinderPosScraper : IScraper
 
 				var condition = conditionAndPrice.Split('-')[0].Trim();
 				var ourTreatment = treatment;
+				var ourSet = set;
 
-				//"Near Mint Foil"
-				if (condition.ToLower().Contains("foil"))
-				{
-					ourTreatment = ourTreatment.Concat(new[] { "Foil" }).ToArray();
-					condition = condition.Replace("FOIL", "").Replace("Foil", "").Replace("foil", "").Trim();
-				}
+				HandleTreatmentAndCondition(ref condition, ref ourTreatment, ref ourSet);
 
 				results.Add(new CardDetails
 				{
 					CardName = cardName,
 					Treatment = _treatmentParser.Parse(ourTreatment),
-					Set = set,
+					Set = ourSet,
 					ImageUrl = "https:" + ((IHtmlImageElement)div.QuerySelector(_configuration.ImageSelector)!).Dataset["src"],
 					ProductUrl = ((IHtmlAnchorElement)div.QuerySelector("a")!).Href,
 					Currency = currency,
@@ -214,6 +229,7 @@ public class BinderPosScraper : IScraper
 				treatment = treatment.Concat(new[] { "Foil" }).ToArray();
 				condition = condition[..^5];
 			}
+			HandleSpecialSets(ref treatment, ref set);
 
 			results.Add(new CardDetails
 			{
@@ -222,10 +238,24 @@ public class BinderPosScraper : IScraper
 				Set = set,
 				ImageUrl = ((IHtmlImageElement)div.QuerySelector(_configuration.ImageSelector)!).Source,
 				ProductUrl = ((IHtmlAnchorElement)div.QuerySelector("a")!).Href,
+				Currency = currency,
 				Price = price,
 				Condition = _conditionParser.Parse(condition),
 				Stock = amount
 			});
+		}
+	}
+
+	/// <summary>
+	/// Some "sets" put extra details in to brackets that get picked up as treatments.
+	/// Instead pull all of those details down to the set and blank the treatments
+	/// </summary>
+	private static void HandleSpecialSets(ref string[] treatment, ref string set)
+	{
+		if (set.Equals("Pro Tour Collector Set", StringComparison.InvariantCultureIgnoreCase) || set.Equals("World Championship Decks 2000", StringComparison.InvariantCultureIgnoreCase))
+		{
+			set = set + " " + string.Join(" ", treatment);
+			treatment = Array.Empty<string>();
 		}
 	}
 }

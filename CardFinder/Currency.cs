@@ -2,6 +2,7 @@
 
 public enum Currency
 {
+	Unset,
 	AUD,
 	NZD,
 	USD,

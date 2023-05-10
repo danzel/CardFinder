@@ -26,6 +26,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"foil" => Treatment.Foil,
 				"foil etched" => Treatment.Foil | Treatment.Etched,
 				"full art" => Treatment.FullArt,
+				"galaxy foil" => Treatment.Galaxy | Treatment.Foil,
 				"japanese" => Treatment.JapaneseAlternateArt,
 				"japanese etched foil" => Treatment.JapaneseAlternateArt | Treatment.Etched | Treatment.Foil,
 				"japanese foil etched" => Treatment.JapaneseAlternateArt | Treatment.Foil | Treatment.Etched,
@@ -33,6 +34,8 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"jp alternate art" => Treatment.JapaneseAlternateArt,
 				"non english" => Treatment.NonEnglish,
 				"not tournament legal" => Treatment.NotTournamentLegal,
+				"oversized" => Treatment.Oversized,
+				"promo pack" => Treatment.PromoPack,
 				"retro" => Treatment.RetroFrame,
 				"retro etched foil" => Treatment.RetroFrame | Treatment.Etched | Treatment.Foil,
 				"retro foil etched" => Treatment.RetroFrame | Treatment.Foil | Treatment.Etched,
@@ -60,7 +63,11 @@ public class BinderPosTreatmentParser : DefaultTreatmentParser
 		if (Regex.IsMatch(treatment, "\\d\\d\\d/\\d\\d\\d"))
 			return 0;
 
-		return base.CustomParse(treatment);
+		return treatment switch
+		{
+			"spn" => Treatment.NonEnglish, //Spanish?
+			_ => base.CustomParse(treatment)
+		};
 	}
 }
 

@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 namespace CardFinder.Scrapers.SingleSite;
 public class HobbyMasterCoNzScraper : IScraper
 {
-	private const string GetCardsTemplate = "https://hobbymaster.co.nz/cards/get-cards?lang=&game=1&foil=&_search=true&rows=100&page=1&sidx=set&sord=desc&name=";
+	private const string GetCardsTemplate = "https://hobbymaster.co.nz/cards/get-cards?lang=&game=1&foil=&_search=true&rows=100&page=1&sidx=stock&sord=desc&name=";
 
 	private readonly ILogger<HobbyMasterCoNzScraper> _logger;
 	private readonly ICachingHttpClient _httpClient;
