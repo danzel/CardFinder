@@ -10,34 +10,37 @@ public enum Treatment
 	RetroFrame = 1 << 2,
 	FullArt = 1 << 3,
 	ExtendedArt = 1 << 4,
+
 	Etched = 1 << 5,
 	Galaxy = 1 << 6,
-	Borderless = 1 << 7,
-	JapaneseAlternateArt = 1 << 8,
-	Textless = 1 << 9,
-	Timeshifted = 1 << 10,
-	AlternateArt = 1 << 11,
+	Textured = 1 << 7,
+
+	Borderless = 1 << 8,
+	JapaneseAlternateArt = 1 << 9,
+	Textless = 1 << 10,
+	Timeshifted = 1 << 11,
+	AlternateArt = 1 << 12,
 
 	/// <summary>
 	/// Has the logo on the art
 	/// </summary>
-	PromoPack = 1 << 12,
+	PromoPack = 1 << 13,
 
-	NotTournamentLegal = 1 << 13,
-	Oversized = 1 << 14,
-	ArtCard = 1 << 15,
+	NotTournamentLegal = 1 << 14,
+	Oversized = 1 << 15,
+	ArtCard = 1 << 16,
 
 	/// <summary>
 	/// Used on BinderPos sites
 	/// </summary>
-	NonEnglish = 1 << 16,
+	NonEnglish = 1 << 17,
 
 	/// <summary>
 	/// Different for each set, usually a fancy border or alt art, or sketch art (mh2)
 	/// </summary>
-	Showcase = 1 << 17,
+	Showcase = 1 << 18,
 
-	Expeditions = 1 << 18,
-	Phyrexian = 1 << 19,
-	Schematic = 1 << 20,
+	Expeditions = 1 << 19,
+	Phyrexian = 1 << 20,
+	Schematic = 1 << 21,
 }

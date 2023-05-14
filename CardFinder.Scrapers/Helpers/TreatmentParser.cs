@@ -19,6 +19,11 @@ public class DefaultTreatmentParser : ITreatmentParser
 			{
 				"borderless" => Treatment.Borderless,
 				"borderless alternate art" => Treatment.Borderless | Treatment.AlternateArt,
+				"borderless concept praetors" => Treatment.Borderless | Treatment.Showcase,
+				"borderless concept praetors step-and-compleat foil" => Treatment.Borderless | Treatment.Showcase | Treatment.Foil, //TODO: Needs another foil type
+				"borderless ichor step-and-compleat foil" => Treatment.Borderless | Treatment.Showcase | Treatment.Foil, //TODO: Needs another foil type
+				"borderless ichor" => Treatment.Borderless | Treatment.Showcase,
+				"concept praetor" => Treatment.Showcase,
 				"etched foil" => Treatment.Etched | Treatment.Foil,
 				"expeditions" => Treatment.Expeditions,
 				"extended" => Treatment.ExtendedArt,
@@ -35,13 +40,18 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"non english" => Treatment.NonEnglish,
 				"not tournament legal" => Treatment.NotTournamentLegal,
 				"oversized" => Treatment.Oversized,
+				"phyrexian" => Treatment.Phyrexian,
 				"promo pack" => Treatment.PromoPack,
 				"retro" => Treatment.RetroFrame,
 				"retro etched foil" => Treatment.RetroFrame | Treatment.Etched | Treatment.Foil,
 				"retro foil etched" => Treatment.RetroFrame | Treatment.Foil | Treatment.Etched,
 				"retro frame" => Treatment.RetroFrame,
 				"showcase" => Treatment.Showcase,
+				"showcase textured" => Treatment.Showcase | Treatment.Textured,
+				"step-and-compleat foil" => Treatment.Foil, //TODO: Needs another foil type
+				"step-and-complete foil" => Treatment.Foil, //TODO: Needs another foil type
 				"textless" => Treatment.Textless,
+				"textured foil" => Treatment.Textured | Treatment.Foil,
 				_ => CustomParse(treatment.ToLowerInvariant())
 			};
 		}
