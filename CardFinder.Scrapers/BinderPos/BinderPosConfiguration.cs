@@ -138,6 +138,9 @@ public record BinderPosConfiguration
 			//Phyrexian Arena - Phyrexia: All Will Be One (ONE) - Foil - Coll # 283
 			var split = cardName.Split(" - ");
 
+			if (split.Length != 4)
+				return (cardName, Array.Empty<string>(), Array.Empty<string>());
+
 			//Name in 0, treatment in 2, set in 1
 			return (split[0], new[] { split[2] }, new[] { split[1] } ); 
 		}

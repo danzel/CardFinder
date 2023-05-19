@@ -257,5 +257,10 @@ public class BinderPosScraper : IScraper
 			set = set + " " + string.Join(" ", treatment);
 			treatment = Array.Empty<string>();
 		}
+
+		if (set.Equals("Collectors’ Edition", StringComparison.InvariantCultureIgnoreCase))
+		{
+			treatment = treatment.Where(t => !t.Equals("ce", StringComparison.InvariantCultureIgnoreCase)).ToArray();
+		}
 	}
 }
