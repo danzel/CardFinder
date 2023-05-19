@@ -1,5 +1,4 @@
-﻿using AngleSharp.Html.Dom;
-using CardFinder.Solver;
+﻿using CardFinder.Solver;
 using System.Collections.ObjectModel;
 
 namespace CardFinder;
@@ -36,11 +35,10 @@ public class SolverContext
 			for (var i = 0; i < Cards.Length; i++)
 			{
 				var card = Cards[i];
-				var tasks = new List<Task>();
+				var tasks = new List<Task<string?>>();
 
-				yield return new SolverStatus($"Fetching '{card.CardName}'", i / (double)Cards.Length);
+				yield return new SolverStatus(SolverState.Scraping, 0, i, null);
 
-				string? failureMessage = null;
 				foreach (var store in Stores)
 				{
 					var c = card.CardName;
@@ -57,19 +55,29 @@ public class SolverContext
 									.OrderBy(r => r.Price)
 									.ToList();
 							}
+							return null;
 						}
 						catch (Exception ex)
 						{
-							failureMessage = $"Failed scraping '{c}' from {s.Name}: " + ex.Message;
+							return $"Failed scraping '{c}' from {s.Name}: " + ex.Message;
 						}
 					}));
 				}
-				await Task.WhenAll(tasks);
 
-				if (failureMessage != null)
+				//Run until done or until one fails
+				while (tasks.Count > 0)
 				{
-					yield return new SolverStatus(failureMessage, 1);
-					yield break;
+					var finished = await Task.WhenAny(tasks);
+					tasks.Remove(finished);
+
+					var error = await finished;
+					if (error != null)
+					{
+						yield return new SolverStatus(SolverState.Error, null, null, error);
+						yield break;
+					}
+
+					yield return new SolverStatus(SolverState.Scraping, Stores.Length - tasks.Count, i, null);
 				}
 			}
 
@@ -91,12 +99,12 @@ public class SolverContext
 		}
 		if (notEnough != null)
 		{
-			yield return new SolverStatus("Failed\n" + string.Join("\n", notEnough), 1);
+			yield return new SolverStatus(SolverState.Error, null, null, string.Join("\n", notEnough));
 			yield break;
 		}
 
 		//Solve based on lowest cost
-		yield return new SolverStatus("Solving", 0);
+		yield return new SolverStatus(SolverState.Solving, null, null, null);
 		decimal bestPrice = decimal.MaxValue;
 		Solution? bestSolution = null;
 		Store[]? bestCombo = null;
@@ -147,8 +155,16 @@ public class SolverContext
 		}
 		Solution = bestSolution;
 
-		yield return new SolverStatus("Done", 100);
+		yield return new SolverStatus(SolverState.Complete, null, null, null);
 	}
 }
 
-public readonly record struct SolverStatus(string Status, double Percent);
+public enum SolverState
+{
+	Scraping,
+	Solving,
+	Complete,
+	Error
+}
+
+public readonly record struct SolverStatus(SolverState State, int? StoresSearchedForCurrentCard, int? CardIndex, string? ErrorDetails);

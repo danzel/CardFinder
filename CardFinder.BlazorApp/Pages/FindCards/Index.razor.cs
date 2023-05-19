@@ -27,15 +27,36 @@ public partial class Index
 
 			await foreach (var step in _solverContext.Solve())
 			{
-				Console.WriteLine($"{step.Status} {step.Percent}");
-				_solverStatus = step.Status;
-				_solvedPercent = step.Percent;
+				Console.WriteLine($"{step}");
+
+				switch (step.State)
+				{
+					case SolverState.Scraping:
+						_solverStatus = "Scraping " + _solverContext.Cards[step.CardIndex!.Value].CardName;
+						_solvedPercent =
+							((double)step.StoresSearchedForCurrentCard!.Value / _solverContext.Stores.Length / _solverContext.Cards.Length)
+							+ (double)step.CardIndex!.Value / _solverContext.Cards.Length;
+						break;
+					case SolverState.Solving:
+						_solverStatus = "Solving";
+						break;
+					case SolverState.Complete:
+						_solverStatus = null;
+						_solvedPercent = 1;
+						break;
+					case SolverState.Error:
+						_solverStatus = step.ErrorDetails;
+						_solvedPercent = null;
+						break;
+					default:
+						throw new NotImplementedException(step.State.ToString());
+				}
 				StateHasChanged();
 			}
-        }
-        finally
+		}
+		finally
         {
             _isWorking = false;
         }
-    }
+	}
 }
