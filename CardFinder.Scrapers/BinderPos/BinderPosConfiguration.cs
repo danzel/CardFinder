@@ -131,6 +131,8 @@ public record BinderPosConfiguration
 		UriRoot = "https://www.hobbylords.co.nz",
 		Currency = CardFinder.Currency.NZD,
 
+		AdditionalQueryText = "",
+
 		SplitCardNameAndBracketedText = (cardName) =>
 		{
 			//Phyrexian Arena - Phyrexia: All Will Be One (ONE) - Foil - Coll # 283
