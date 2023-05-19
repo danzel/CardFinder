@@ -27,9 +27,12 @@ public class ScraperFactory
 	public BinderPosScraper CardMerchantTakapunaCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.CardMerchantTakapunaCoNz);
 	public BinderPosScraper GamingDnaCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.GamingDnaCoNz);
 	public BinderPosScraper GoblinGamesNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.GoblinGamesNz);
+	public BinderPosScraper HobbyLordsCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.HobbyLordsCoNz);
 	public BinderPosScraper IronKnightGamingCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.IronKnightGamingCoNz);
 	public BinderPosScraper MadLootGamesCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MadLootGamesCoNz);
 	public BinderPosScraper MagicAtWillisCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MagicAtWillisCoNz);
+	public BinderPosScraper MtgMagpieCom => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MtgMagpieCom);
+	public BinderPosScraper NovaGamesCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.NovaGamesCoNz);
 	public BinderPosScraper ShuffleAndCutGamesCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.ShuffleAndCutGameCoNz);
 	public BinderPosScraper SpellboundGamesCoNz => new(_loggerFactory.CreateLogger<BinderPosScraper>(), _httpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.SpellboundGamesCoNz);
 	#endregion

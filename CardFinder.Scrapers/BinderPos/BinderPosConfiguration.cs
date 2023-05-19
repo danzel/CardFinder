@@ -1,4 +1,6 @@
-﻿namespace CardFinder.Scrapers.BinderPos;
+﻿using CardFinder.Scrapers.Helpers;
+
+namespace CardFinder.Scrapers.BinderPos;
 
 public enum BinderPosParseMode
 {
@@ -25,6 +27,8 @@ public record BinderPosConfiguration
 
 	public Currency? Currency { get; init; }
 
+	public Func<string, (string CardName, string[] RoundBracketsText, string[] BoxBracketsText)> SplitCardNameAndBracketedText { get; init; } =  CardNameHelpers.SplitCardNameAndBracketedText;
+
 	private static BinderPosConfiguration NzDefaults { get; } = new BinderPosConfiguration
 	{
 		UriRoot = null!,
@@ -38,7 +42,7 @@ public record BinderPosConfiguration
 		ChipSelector = ".productChip",
 		OutOfStockSelector = ".productCard__button--outOfStock",
 		SetNameSelector = ".productCard__setName",
-		ImageSelector = ".productCard__img"
+		ImageSelector = ".productCard__img",
 	};
 
 	private static BinderPosConfiguration StockInOnClickJsNzDefaults { get; } = new BinderPosConfiguration
@@ -122,6 +126,21 @@ public record BinderPosConfiguration
 		Currency = CardFinder.Currency.NZD,
 	};
 
+	public static BinderPosConfiguration HobbyLordsCoNz { get; } = StockInOptionsDropdown with
+	{
+		UriRoot = "https://www.hobbylords.co.nz",
+		Currency = CardFinder.Currency.NZD,
+
+		SplitCardNameAndBracketedText = (cardName) =>
+		{
+			//Phyrexian Arena - Phyrexia: All Will Be One (ONE) - Foil - Coll # 283
+			var split = cardName.Split(" - ");
+
+			//Name in 0, treatment in 2, set in 1
+			return (split[0], new[] { split[2] }, new[] { split[1] } ); 
+		}
+	};
+
 	public static BinderPosConfiguration IronKnightGamingCoNz { get; } = StockInOptionsDropdown with
 	{
 		UriRoot = "https://ironknightgaming.co.nz",
@@ -136,6 +155,18 @@ public record BinderPosConfiguration
 	public static BinderPosConfiguration MagicAtWillisCoNz { get; } = NzDefaults with
 	{
 		UriRoot = "https://magicatwillis.co.nz"
+	};
+
+	public static BinderPosConfiguration MtgMagpieCom { get; } = StockInOnClickJsNzDefaults with
+	{
+		UriRoot = "https://mtgmagpie.com",
+		Currency = CardFinder.Currency.NZD,
+	};
+
+	public static BinderPosConfiguration NovaGamesCoNz { get; } = StockInOptionsDropdown with
+	{
+		UriRoot = "https://novagames.co.nz",
+		Currency = CardFinder.Currency.NZD,
 	};
 
 	public static BinderPosConfiguration ShuffleAndCutGameCoNz { get; } = StockInOnClickJsNzDefaults with

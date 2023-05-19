@@ -1,0 +1,2599 @@
+<!doctype html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js no-touch bodyScroll">
+<!--<![endif]-->
+
+<head>
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/favicon.png?v=115530783645224653591589449267" type="image/png" />
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+    Search: 10 results found for &quot;arid mesa* product_type:&quot;mtg&quot;&quot; &ndash;
+    Magic Magpie
+  </title>
+
+  
+  <meta name="description" content="Magic Magpie is a New Zealand store specializing in Magic the Gathering Singles. I pay competitive prices for all MTG trade-ins and offer a large range of single cards for easy purchase and speedy delivery anywhere in New Zealand. I will trade for unsorted bulk, just get in touch via facebook or email.">
+  
+
+  <!-- Helpers ================================================== -->
+  
+<meta property="og:site_name" content="Magic Magpie">
+<meta property="og:url" content="https://mtgmagpie.com/search?q=arid+mesa*+product_type%3a%22mtg%22">
+<meta property="og:title" content="Search: 10 results found for &quot;arid mesa* product_type:&quot;mtg&quot;&quot;">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Magic Magpie is a New Zealand store specializing in Magic the Gathering Singles. I pay competitive prices for all MTG trade-ins and offer a large range of single cards for easy purchase and speedy delivery anywhere in New Zealand. I will trade for unsorted bulk, just get in touch via facebook or email.">
+
+
+<meta name="twitter:site" content="@">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Search: 10 results found for &quot;arid mesa* product_type:&quot;mtg&quot;&quot;">
+<meta name="twitter:description" content="Magic Magpie is a New Zealand store specializing in Magic the Gathering Singles. I pay competitive prices for all MTG trade-ins and offer a large range of single cards for easy purchase and speedy delivery anywhere in New Zealand. I will trade for unsorted bulk, just get in touch via facebook or email.">
+<meta name="twitter:image:width" content="480">
+<meta name="twitter:image:height" content="480">
+
+
+  <link rel="canonical" href="https://mtgmagpie.com/search?q=arid+mesa*+product_type%3a%22mtg%22">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="theme-color" content="#1b1d20">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/owl.carousel.css?v=36884556095907238731588216128" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/lightbox.css?v=48637467938156220971588216190" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/stylesheet.scss.css?v=98111495761217451261633992905" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/customCss.scss.css?v=111603181540343972631588216129" rel="stylesheet" type="text/css" media="all" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+  <link href="https://cdn.binderpos.com/eventCalendar.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/css/select2.min.css" rel="stylesheet" />
+  <link href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+
+  <!-- Header hook for plugins ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/globopreorder.css?v=170413686861817417171588216142" rel="stylesheet" type="text/css" media="all" />
+
+
+<script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/globopreorder_params.js?v=134743314696610806101588216178"></script>
+<script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/globopreorder.js?v=63755448621613787561588216204" defer="defer"></script>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/28424110183/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="1466e7b3832becb23fd001250c2ca647">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.en.8645d252f07ec25fdbc6.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~Information~NoAddressLocation~Payment~PostPurchase~Review~Shipping~ShopPay~Sho~cf13f96e.latest.en.04837ae4ff5a8e949953.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.en.84ff9c0024faf7f72c14.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.en.900911b3d82c82309ebf.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.en.86cd9328cdcd6cd3a58f.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.en.b4546f9bffad10b3673b.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~app.latest.en.f5154093d2604596d084.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.931851b1b02f1bcae42a.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.en.9f2a5e9ec696775e2217.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.en.e788719f193b49c039a3.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.6b4c79ead7042980b29d.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.en.da9f06164a980bf8e7ea.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.en.9a0274ab07be120c1902.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":28424110183,"countryCode":"NZ","currencyCode":"NZD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/28424110183","merchantName":"Magic Magpie","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","chinaUnionPay","jcb"],"total":{"type":"pending","label":"Magic Magpie","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"1466e7b3832becb23fd001250c2ca647","betas":["rich-media-storefront-analytics"],"domain":"mtgmagpie.com","predictiveSearch":true,"shopId":28424110183,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en","optimusEnabled":false,"shopPromisePDPViaDynamicWallet":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "magic-magpie.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"NZD","rate":"1.0"};
+Shopify.country = "NZ";
+Shopify.theme = {"name":"BinderPOS Theme v2.0","id":82038554727,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/app.binderpos.com\/external\/shopify\/storeCredit\/script?shop=magic-magpie.myshopify.com","https:\/\/app.binderpos.com\/external\/shopify\/buylist\/script?shop=magic-magpie.myshopify.com","https:\/\/cdn.hextom.com\/js\/freeshippingbar.js?shop=magic-magpie.myshopify.com","https:\/\/ecommerce-editor-connector.live.gelato.tech\/ecommerce-editor\/v1\/shopify.esm.js?c=917719ca-10a2-409b-b0a4-a379d56482a2\u0026s=cb07fbf7-0ae2-405d-aca8-b1e574c14b2b\u0026shop=magic-magpie.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":28424110183,"offset":43200,"reqid":"1f5a562b-6b37-4d28-937f-41811d83c12b","pageurl":"mtgmagpie.com\/search?q=arid+mesa*+product_type%3A%22mtg%22","u":"d2459c57c020","p":"searchresults"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-4VRZk5nmuLKdyxECzHbrGZ+jOgmvT6eNFej4VE7mT80=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-c31d2fa4962d2ef90b673e945ee33f4f87302b97d0882cd8e83a629b84b30dab.js?v=20220906"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" media="screen" href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/compiled_assets/styles.css?441">
+<script id="sections-script" data-sections="footer" defer="defer" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/compiled_assets/scripts.js?441"></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 120px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <!-- /snippets/oldIE-js.liquid -->
+
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/respond.min.js?v=52248677837542619231588216149" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//mtgmagpie.com/search?q=10575734a85fd6656b6eae3324dedb74" id="respond-redirect" rel="respond-redirect" />
+<script src="//mtgmagpie.com/search?q=10575734a85fd6656b6eae3324dedb74" type="text/javascript"></script>
+<![endif]-->
+
+
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/modernizr.min.js?v=137617515274177302221588216124" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/owl.carousel.js?v=174566015424785309701588216150" type="text/javascript"></script>
+
+  <!--   <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/theme.js?v=138335425461547226921588216156" type="text/javascript"></script> -->
+
+  
+  
+  <!-- jQuery UI -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152494552-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-152494552-1');
+</script>
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0284/2411/0183/files/MagicMagpie_Logo_noFillB.png?height=628&pad_color=ffffff&v=1614319478&width=1200" />
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0284/2411/0183/files/MagicMagpie_Logo_noFillB.png?height=628&pad_color=ffffff&v=1614319478&width=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 28424110183,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "search"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="evids-setup">
+  (function () {let t,e;function n(){t={page_viewed:{},collection_viewed:{},product_viewed:{},product_variant_viewed:{},search_submitted:{},product_added_to_cart:{},checkout_started:{},checkout_completed:{},payment_info_submitted:{},session_started:{}},e={wpm:{},trekkie:{}}}function o(t){return`${t||"sh"}-${function(){const t="xxxx-4xxx-xxxx-xxxxxxxxxxxx";let e="";try{const n=window.crypto,o=new Uint16Array(31);n.getRandomValues(o);let r=0;e=t.replace(/[x]/g,(t=>{const e=o[r]%16;return r++,("x"===t?e:3&e|8).toString(16)})).toUpperCase()}catch(n){e=t.replace(/[x]/g,(t=>{const e=16*Math.random()|0;return("x"===t?e:3&e|8).toString(16)})).toUpperCase()}return`${function(){let t=0,e=0;t=(new Date).getTime()>>>0;try{e=performance.now()>>>0}catch(t){e=0}const n=Math.abs(t+e).toString(16).toLowerCase();return"00000000".substr(0,8-n.length)+n}()}-${e}`}()}`}function r(n,r){if(!t[n]||"trekkie"!==(null==r?void 0:r.analyticsFramework)&&"wpm"!==(null==r?void 0:r.analyticsFramework))return o("shu");const i="string"==typeof(c=r.cacheKey)&&c?c:"default";var c;const a=function(t,n,o){const r=e[n];return void 0===r[t]&&(r[t]={}),void 0===r[t][o]?r[t][o]=0:r[t][o]+=1,r[t][o]}(n,r.analyticsFramework,i);return function(e,n,r){const i=t[e];if(void 0===i[r]){const t=o();i[r]=[t]}else if(void 0===i[r][n]){const t=o();i[r].push(t)}return i[r][n]}(n,a,i)}function i(){window.Shopify=window.Shopify||{},n(),window.Shopify.evids=(t,e)=>r(t,e)}i();})();
+</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=i||[],l=null!==e;l&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var d=function(){var e="legacy",n="unknown",a=null,t=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),o=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):o?(n="edge",a=parseInt(o[2],10)):t&&(n=t[1].toLocaleLowerCase(),a=parseInt(t[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}().substring(0,1),c=t.substring(0,1);if(l)try{self.performance.mark("wpm:start")}catch(e){}var p,u,f,w,h,y,m,g,v=[a,s.indexOf("web_pixels_manager_runtime_asset_prefix")>-1?"/wpm":null,"/",c,r,d,".js"].join("");p={src:v,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:v+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const t=new XMLHttpRequest;try{return t.open("POST",n,!0),t.setRequestHeader("Content-Type","text/plain"),t.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},u=document.createElement("script"),f=p.src,w=p.async||!0,h=p.onload,y=p.onerror,m=document.head,g=document.body,u.async=w,u.src=f,h&&u.addEventListener("load",h),y&&u.addEventListener("error",y),m?m.appendChild(u):g?g.appendChild(u):console.error("Did not find a head or body element to append the script")})({shopId: 28424110183,storefrontBaseUrl: "https://mtgmagpie.com",cdnBaseUrl: "https://cdn.shopify.com",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_use_shop_domain_monorail_endpoint","web_pixels_shopify_pixel_validation","web_pixels_prefetch_assets","web_pixels_manager_runtime_asset_prefix"],webPixelExtensionBaseUrl: "https://cdn.shopify.com",webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0540","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0540","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("search_submitted", {"searchResult":{"query":"arid mesa* product_type:\"mtg\"","productVariants":[{"id":"32268660506727","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/21a739c8-d7ca-4204-9398-c47fd1d68447.jpg?v=1588219237"},"price":{"amount":268.25,"currencyCode":"NZD"},"product":{"id":"4569460539495","title":"Arid Mesa [Zendikar Expeditions]","untranslatedTitle":"Arid Mesa [Zendikar Expeditions]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"undefined-F-0","title":"Near Mint Foil","untranslatedTitle":"Near Mint Foil"},{"id":"32268187533415","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/16c8d2fa-54a7-46e8-980c-905258497c90.jpg?v=1588218191"},"price":{"amount":33.1,"currencyCode":"NZD"},"product":{"id":"4569388122215","title":"Arid Mesa [Zendikar]","untranslatedTitle":"Arid Mesa [Zendikar]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"ZEN-211-EN-NF-0","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"39353325617255","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/8b2fb1104ddbabec8641f5641a333f2c.jpg?v=1637021005"},"price":{"amount":30.25,"currencyCode":"NZD"},"product":{"id":"6560867483751","title":"Arid Mesa [Modern Horizons 2]","untranslatedTitle":"Arid Mesa [Modern Horizons 2]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"MH2-244-EN-NF-1","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"32297113059431","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?v=1588577462"},"price":{"amount":31.9,"currencyCode":"NZD"},"product":{"id":"4575964266599","title":"Arid Mesa [Modern Masters 2017]","untranslatedTitle":"Arid Mesa [Modern Masters 2017]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"MM3-229-EN-NF-0","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"39353334464615","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/26081ff5-bcb8-5a15-83ef-16995e2b8c30_bfe2a299-33b5-46b1-9853-3eafdc533495.png?v=1629305695"},"price":{"amount":35.4,"currencyCode":"NZD"},"product":{"id":"6560868368487","title":"Arid Mesa (Extended) [Modern Horizons 2]","untranslatedTitle":"Arid Mesa (Extended) [Modern Horizons 2]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"MH2-475-EN-NF-1","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"39353327550567","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/79d57191-0087-521a-a1ba-97e7b93b9049_d0bdd17f-a584-4bab-ad26-59fee819521d.png?v=1629305696"},"price":{"amount":39.35,"currencyCode":"NZD"},"product":{"id":"6560867680359","title":"Arid Mesa (Retro) [Modern Horizons 2]","untranslatedTitle":"Arid Mesa (Retro) [Modern Horizons 2]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"MH2-436-EN-NF-1","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"32842480681063","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/b51e2b55-ab2b-50b2-92b0-1f6bbac3df16_e484f3f8-8814-4869-860f-63b461cf0449.jpg?v=1637016902"},"price":{"amount":48.85,"currencyCode":"NZD"},"product":{"id":"4699734376551","title":"Arid Mesa (Expeditions) [Zendikar Rising Expeditions]","untranslatedTitle":"Arid Mesa (Expeditions) [Zendikar Rising Expeditions]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"ZNE-9-EN-NF-1","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"32302264746087","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/81ad48fa-9464-40bf-8bf5-af31a6a38fb3.jpg?v=1588588650"},"price":{"amount":43.45,"currencyCode":"NZD"},"product":{"id":"4576654786663","title":"Arid Mesa [Secret Lair: Ultimate Edition]","untranslatedTitle":"Arid Mesa [Secret Lair: Ultimate Edition]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"SLU-4-EN-NF-0","title":"Near Mint","untranslatedTitle":"Near Mint"},{"id":"39376627990631","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/fd570d5c-ec2a-5357-90d5-4b225f3767fb_d74cc73c-4b38-422c-acd0-cb007c4b1c2a.jpg?v=1629894816"},"price":{"amount":34.6,"currencyCode":"NZD"},"product":{"id":"6566933200999","title":"Arid Mesa [Modern Horizons 2 Prerelease Promos]","untranslatedTitle":"Arid Mesa [Modern Horizons 2 Prerelease Promos]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"PMH2-244-EN-FO-1","title":"Near Mint Foil","untranslatedTitle":"Near Mint Foil"},{"id":"39368863023207","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0284\/2411\/0183\/products\/79d57191-0087-521a-a1ba-97e7b93b9049.png?v=1635988664"},"price":{"amount":38.65,"currencyCode":"NZD"},"product":{"id":"6564883660903","title":"Arid Mesa (Retro Etched Foil) [Modern Horizons 2]","untranslatedTitle":"Arid Mesa (Retro Etched Foil) [Modern Horizons 2]","vendor":"Magic: The Gathering","type":"MTG Single"},"sku":"MH2-436-EN-FO-1","title":"Near Mint Foil","untranslatedTitle":"Near Mint Foil"}]}});},"https://cdn.shopify.com","browser","0.0.299","887cd462w3717788dpac03c6b5m861026ed",["web_pixels_use_shop_domain_monorail_endpoint","web_pixels_shopify_pixel_validation","web_pixels_prefetch_assets","web_pixels_manager_runtime_asset_prefix"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'NZD';
+var meta = {"page":{"pageType":"searchresults"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 28424110183,
+      theme_id: 82038554727,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.fb5449780830f3a1a89570de0a91918d2375770e.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.fb5449780830f3a1a89570de0a91918d2375770e.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = 'https://cdn.shopify.com/s/trekkie.storefront.fb5449780830f3a1a89570de0a91918d2375770e.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":28424110183,"isMerchantRequest":null,"themeId":82038554727,"themeCityHash":"14525041296354638257","contentLanguage":"en","currency":"NZD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"searchresults"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Performed Search",{"query":"arid mesa* product_type:\"mtg\""});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 28424110183;
+  window.BOOMR.themeId = 82038554727;
+  window.BOOMR.renderRegion = "gcp-us-central1";
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+
+
+<body id="search-10-results-found-for-quot-arid-mesa-product_type-quot-mtg-quot-quot"
+  class="template-search">
+  <input hidden class="primaryColour" value="#1b1d20">
+  <input hidden class="primaryDomain" value="magic-magpie.myshopify.com">
+  <input hidden class="currencyFormatter" value="${{amount}}">
+  <input hidden class="primaryCurrency" value="$0.00">
+  <input hidden class="customerId" value="">
+  <input hidden class="pageURL" value="search">
+  <input hidden class="productType" value="">
+  <input hidden class="pageHandle" value="">
+  <input hidden class="iso" value="NZD">
+  <div id="PageContainer">
+    <div id="shopify-section-header" class="shopify-section">
+
+
+
+
+
+<div data-section-id="header" data-section-type="header-section">
+    <header class="hidden-xs hidden-sm hidden-md" id="main">
+        <div class="topBar">
+            <div class="leftItems">
+                <div class="socialIcons">
+
+
+  <a target="_blank" href="https://www.facebook.com/MTGMagpie">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+  <a target="_blank" href="#">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+
+
+
+
+
+
+</div>
+
+
+                
+                    <p class="login">
+                        <a href="/account/login">Login
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    or Create an
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    account</a>
+                    </p>
+                
+                <span class="accountMenu noCustomer">
+                    <a class="mobileCartIcon hidden" href="/cart">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span>0
+                        </span>
+                    </a>
+                </span>
+            </div>
+            <div class="rightItems">
+                
+                <div class="row searchBar">
+                    <form action="/search" id="searchForm" method="get" role="search">
+                        <label>
+                            <input autocomplete="off" type="search" name="q" placeholder="Search the Store" class="input-group-field" aria-label="Search all products">
+                            <i class="fas fa-search"></i>
+                        </label>
+                    </form>
+                    <div class="searchResults hide">
+                        <div class="headerSearch">PRODUCTS
+                            <img style="opacity: 0; transition: all 0.2s" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loaders.gif?v=66550052749047757211588216199"></div>
+                        <div class="searchLine"></div>
+                        <div class="stringSearch">Search for
+                            <a></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="logo">
+                
+                        <div class="site-header-logo" itemscope itemtype="http://schema.org/Organization">
+                        
+                        
+                            <a href="/" itemprop="url">
+                                <img style="max-width: 376px" src="//cdn.shopify.com/s/files/1/0284/2411/0183/files/MagicMagpie_Logo_4x_376x.png?v=1614323907" alt="Magic Magpie | New Zealand" itemprop="logo">
+                            </a>
+                        
+                        
+                    </div>
+                
+            </div>
+            <div class="menu">
+                <ul class="nav-bar">
+                    
+                        
+
+    <li class="nav-item">
+        <a class="menuItem" href="/pages/magic-the-gathering">
+            <span>Search</span>
+        </a>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item dropdown navigation">
+        <a class="menuItem" href="#" class="dropdown-toggle dropdown-link">
+            <span>Sets</span>
+            <i class="fa fa-angle-down"></i>
+        </a>
+        <ul class="dropdown-menu">
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/newly-added">New Arrivals</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/double-masters">Double Masters</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/dungeons-dragons-adventures-in-the-forgotten-realms">Dungeons & Dragons</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/pages/magic-the-gathering">Advanced Search</a>
+    </li>
+
+            
+        </ul>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item dropdown navigation">
+        <a class="menuItem" href="#" class="dropdown-toggle dropdown-link">
+            <span>Collections</span>
+            <i class="fa fa-angle-down"></i>
+        </a>
+        <ul class="dropdown-menu">
+            
+                
+
+    <li class=" dropdown li-sub-mega">
+        <a href="#">
+            <span>Staples</span>
+            <i class="sub-dropdown1  visible-sm visible-md visible-lg"></i>
+            <i class="sub-dropdown visible-sm visible-md visible-lg"></i>
+        </a>
+        <ul class="dropdown-menu subMenu">
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/staple-commons">Staple Commons</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/staple-uncommons">Staple Uncommons</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/shocklands">Essential Lands</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/pauper">Pauper cards</a>
+    </li>
+
+            
+        </ul>
+    </li>
+
+            
+                
+
+    <li class=" dropdown li-sub-mega">
+        <a href="#">
+            <span>Featured</span>
+            <i class="sub-dropdown1  visible-sm visible-md visible-lg"></i>
+            <i class="sub-dropdown visible-sm visible-md visible-lg"></i>
+        </a>
+        <ul class="dropdown-menu subMenu">
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/magpies-treasure">Magpie Treasure</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/premium-cardboard">Singles over $40</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/in-stock-planeswalkers">Planeswalkers</a>
+    </li>
+
+            
+        </ul>
+    </li>
+
+            
+                
+
+    <li class=" dropdown li-sub-mega">
+        <a href="#">
+            <span>Playsets</span>
+            <i class="sub-dropdown1  visible-sm visible-md visible-lg"></i>
+            <i class="sub-dropdown visible-sm visible-md visible-lg"></i>
+        </a>
+        <ul class="dropdown-menu subMenu">
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/matching-lands">Matching Lands</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/playsets">Common Playsets</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/uncommon-playsets">Uncommon Playsets</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/rare-playsets">Rare Playsets</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/collections/mythic-playsets">Mythic Playsets</a>
+    </li>
+
+            
+        </ul>
+    </li>
+
+            
+        </ul>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item">
+        <a class="menuItem" href="/pages/buylist-instructions">
+            <span>Buylist</span>
+        </a>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item dropdown navigation">
+        <a class="menuItem" href="/pages/about" class="dropdown-toggle dropdown-link">
+            <span>About</span>
+            <i class="fa fa-angle-down"></i>
+        </a>
+        <ul class="dropdown-menu">
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/blogs/news">Blog</a>
+    </li>
+
+            
+                
+
+    <li class="li-sub-mega">
+        <a tabindex="-1" href="/pages/about">About</a>
+    </li>
+
+            
+        </ul>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item">
+        <a class="menuItem" href="/pages/contact-us">
+            <span>Contact Us</span>
+        </a>
+    </li>
+
+                    
+                        
+
+    <li class="nav-item">
+        <a class="menuItem" href="/collections/imports">
+            <span>Imports</span>
+        </a>
+    </li>
+
+                    
+                </ul>
+            </div>
+            <div class="mobile-menu hidden">
+                <i class="fas fa-bars active" id="ham"></i>
+                <nav class="nav-drill">
+                    <ul class="nav-items nav-level-1">
+                        <li class="nav-item-mob accountMenu">
+                            
+                                <a href="/account/login">
+                                    <i class="fas fa-user-alt"></i>
+                                    Login / Register</a>
+                            
+                        </li>
+                        
+                            
+
+<li class="nav-item-mob">
+        <a class="nav-link" href="/pages/magic-the-gathering">
+            Search
+        </a>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        Sets
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/newly-added">
+        New Arrivals
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/double-masters">
+        Double Masters
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/dungeons-dragons-adventures-in-the-forgotten-realms">
+        Dungeons & Dragons
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/pages/magic-the-gathering">
+        Advanced Search
+    </a>
+</li>
+
+        
+    </ul>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        Collections
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        Staples
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/staple-commons">
+        Staple Commons
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/staple-uncommons">
+        Staple Uncommons
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/shocklands">
+        Essential Lands
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/pauper">
+        Pauper cards
+    </a>
+</li>
+
+        
+    </ul>
+</li>
+
+        
+            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        Featured
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/magpies-treasure">
+        Magpie Treasure
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/premium-cardboard">
+        Singles over $40
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/in-stock-planeswalkers">
+        Planeswalkers
+    </a>
+</li>
+
+        
+    </ul>
+</li>
+
+        
+            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        Playsets
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/matching-lands">
+        Matching Lands
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/playsets">
+        Common Playsets
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/uncommon-playsets">
+        Uncommon Playsets
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/rare-playsets">
+        Rare Playsets
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/collections/mythic-playsets">
+        Mythic Playsets
+    </a>
+</li>
+
+        
+    </ul>
+</li>
+
+        
+    </ul>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob">
+        <a class="nav-link" href="/pages/buylist-instructions">
+            Buylist
+        </a>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob nav-expand">
+    <a class="nav-link nav-expand-link" href="#">
+        About
+    </a>
+    <ul class="nav-items nav-expand-content">
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/blogs/news">
+        Blog
+    </a>
+</li>
+
+        
+            
+
+<li class="nav-item-mob">
+    <a class="nav-link" href="/pages/about">
+        About
+    </a>
+</li>
+
+        
+    </ul>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob">
+        <a class="nav-link" href="/pages/contact-us">
+            Contact Us
+        </a>
+</li>
+
+
+
+                        
+                            
+
+<li class="nav-item-mob">
+        <a class="nav-link" href="/collections/imports">
+            Imports
+        </a>
+</li>
+
+
+
+                        
+                    </ul>
+                </nav>
+            </div>
+            <a class="cartIcon" href="/cart">
+                <div class="cart-overview">
+                    <svg id="Capa_1" version="1.1" viewbox="0 0 512 512" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
+                        <g>
+                            <g>
+                                <path d="M509.867,89.6c-2.133-2.133-4.267-4.267-8.533-4.267H96L85.333,29.867c0-4.267-6.4-8.533-10.667-8.533h-64
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  C4.267,21.333,0,25.6,0,32c0,6.4,4.267,10.667,10.667,10.667h55.467l51.2,260.267c6.4,34.133,38.4,59.733,72.533,59.733H435.2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  c6.4,0,10.667-4.267,10.667-10.667c0-6.4-4.267-10.667-10.667-10.667H192c-17.067,0-34.133-8.533-42.667-23.467L460.8,275.2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  c4.267,0,8.533-4.267,8.533-8.533L512,96C512,96,512,91.733,509.867,89.6z M450.133,256l-311.467,40.533l-38.4-192H486.4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                L450.133,256z"/>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <path d="M181.333,384C151.467,384,128,407.467,128,437.333c0,29.867,23.467,53.333,53.333,53.333
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                c29.867,0,53.333-23.467,53.333-53.333C234.667,407.467,211.2,384,181.333,384z M181.333,469.333c-17.067,0-32-14.934-32-32
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                s14.933-32,32-32c17.067,0,32,14.934,32,32S198.4,469.333,181.333,469.333z"/>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <path d="M394.667,384c-29.867,0-53.333,23.467-53.333,53.333c0,29.867,23.467,53.333,53.333,53.333
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                c29.867,0,53.333-23.467,53.333-53.333C448,407.467,424.533,384,394.667,384z M394.667,469.333c-17.067,0-32-14.934-32-32
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                s14.933-32,32-32c17.067,0,32,14.934,32,32S411.733,469.333,394.667,469.333z"/>
+                            </g>
+                        </g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                    </svg>
+                    <span>0</span>
+                </div>
+            </a>
+            
+        </div>
+    </header>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var navItems = document.querySelectorAll(".nav-item.dropdown");
+    navItems.forEach(function (item) {
+      item.addEventListener("mouseover", function () {
+        item.classList.add('show');
+        item.setAttribute("expanded", true);
+        var menuItemContainer = item.querySelector(".dropdown-menu");
+        menuItemContainer.classList.add("show");
+        menuItemContainer.style = "position: absolute; transform: translate3d(0px, 73px, 0px); top: 0px; left: 0px; will-change: transform;";
+        setupSubmenuItems(menuItemContainer);
+      });
+      item.addEventListener("mouseleave", function () {
+        item.classList.remove('show');
+        item.setAttribute("expanded", false);
+        var menuItemContainer = item.querySelector(".dropdown-menu");
+        menuItemContainer.classList.remove("show");
+      })
+    })
+  });
+
+  function setupSubmenuItems(parentElement) {
+    var dropdownItems = parentElement.querySelectorAll(".dropdown");
+    dropdownItems.forEach(function (item) {
+      item.addEventListener("mouseover", function () {
+        var menuItemContainer = item.querySelector(".dropdown-menu");
+        menuItemContainer.classList.add("show");
+        setupSubmenuItems(menuItemContainer);
+      });
+      item.addEventListener("mouseleave", function () {
+        var menuItemContainer = item.querySelector(".dropdown-menu");
+        menuItemContainer.classList.remove("show");
+      })
+    });
+  }
+
+  $('#searchForm').submit(function() {
+    var searchInput = document.querySelector('#searchForm input')
+    var terms = searchInput.value;
+    searchInput.value = "*" + terms + "*";
+    return true; // return false to cancel form action
+})
+</script>
+
+
+
+
+<style>
+    #shopify-section-header #main .header .menu .nav-bar .nav-item .dropdown-menu.show {
+        background: rgb(0, 0, 0)!important;
+    }
+    #shopify-section-header #main .header {
+        background: rgb(0, 0, 0);
+    }
+    #shopify-section-header #main .header .menu .nav-bar .nav-item {
+        font-size: 16px;
+    }
+    .dropdown-menu {
+        font-size: 16px !important;
+    }
+</style></div>
+    
+    <!-- /snippets/breadcrumb.liquid -->
+
+<div class="sub-nav hidden-xs hidden-sm hidden-md shopify-section" style="background-size:cover !important; background: linear-gradient(180deg, #020202 0%, rgba(29, 32, 40, 0) 163.33%), url(//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/breadcrumbbg_1920x.png?v=175510876822287640861588564827)">
+  <div class="container">
+    <div class="row">
+      <nav class="breadcrumb col-lg-12" role="navigation" aria-label="breadcrumbs">
+
+        <a href="/" title="Back to the home page">Home</a>
+
+        
+
+        <span aria-hidden="true">/</span>
+        <span class="sub-nav-span">Search: 10 results found for &quot;arid mesa* product_type:&quot;mtg&quot;&quot;</span>
+        <span class="collectionTitle"></span>
+
+        
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+
+    
+    
+    <div class="container">
+      <div class="row">
+        <!-- /templates/search.liquid -->
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div class="col-md-12">
+
+            
+                
+                
+                
+                    <h1 class="text-center cust-title">Your search for "arid mesa* product_type:&quot;mtg&quot;" revealed the following:</h1>
+                
+            
+        </div>
+
+        <div class="row">
+            <div class="col-lg-3">
+                <!-- /snippets/search-bar.liquid -->
+
+<input hidden id="currentSearch" value="arid mesa* product_type:&quot;mtg&quot;">
+<form action="/search" method="get" class="input-group search-bar" role="search" class="filters" id="filters">
+  
+  <input type="search" name="q" hidden class="input-group-field" id="searchQuery" value="">
+  <p class="title">Game</p>
+  <select id="game">
+    <option value="">All Games</option>
+    <option value="mtg">Magic the Gathering</option>
+    <option value="pokemon">Pokemon</option>
+    <option value="yugioh">Yu-gi-oh</option>
+  </select>
+  <p class="title">Product/Card Name</p>
+  <input type="text" id="cardName" placeholder="eg. Fatal Push">
+  <label class="set title hidden" for="set">Edition
+    <select hidden id="set"></select>
+  </label>
+  <label class="color title hidden" for="colours">Colours
+      <select hidden id="colours" multiple="multiple" placeholder="Select colors"></select>
+  </label>
+  <label class="type title hidden" for="type">Type
+      <select hidden id="type" multiple="multiple" placeholder="Select type"></select>
+  </label>
+  <label class="monsterType title hidden" for="monsterType">Monster Type
+      <select hidden id="monsterType" multiple="multiple" placeholder="Select type"></select>
+  </label>
+  <label class="rarity title hidden" for="rarity">Rarities
+      <select hidden id="rarity" multiple="multiple" placeholder="Select rarity"></select>
+  </label>
+  <span class="input-group-btn">
+    <button onClick="buildSearch()" id="search">
+      <span class="icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Apply Filter</span>
+      <button onclick="resetForm()" type="reset" value="Reset">Clear Form</button>
+    </button>
+  </span>
+</form>
+
+
+<div class="filters">
+
+</div>
+
+<script>
+  function resetForm() {
+    var setSelect = document.querySelector('#set');
+    var raritySelect = document.querySelector('#rarity');
+    var rarityLabel = document.querySelector('label.rarity.title');
+    var setLabel = document.querySelector('label.set.title');
+    var colorSelect = document.querySelector('#colours');
+    var colorLabel = document.querySelector('label.color.title');
+    var typeSelect = document.querySelector('#type');
+    var typeLabel = document.querySelector('label.type.title');
+    var monsterTypeSelect = document.querySelector('#monsterType');
+    var monsterTypeLabel = document.querySelector('label.monsterType.title');
+    setSelect.hidden = true;
+    raritySelect.hidden = true;
+    colorSelect.hidden = true;
+    setLabel.classList.add("hidden");
+    colorLabel.classList.add("hidden");
+    typeSelect.hidden = true;
+    typeLabel.classList.add("hidden");
+    rarityLabel.classList.add("hidden");
+    monsterTypeSelect.hidden = true;
+    monsterTypeLabel.classList.add("hidden");
+  }
+
+  function buildSearch() {
+    var q = "";
+    var searchQuery = document.querySelector('#searchQuery');
+    var name = document.querySelector('#cardName').value;
+    q = name + "*";
+    var game = document.querySelector('#game').value;
+    if (game != "") {
+      game = " product_type:\"" + game + "\"";
+      q += game;
+    }
+    var set = document.querySelector('#set').value;
+    if (set != "") {
+      set = " tag:\"" + set + "\"";
+      q += set;
+    }
+    var colours = document.querySelectorAll('#colours option:checked');
+    var i;
+    for (i = 0; i < colours.length; i++) {
+        if (i == colours.length - 1) {
+          q += " tag:\"" + colours[i].text + "\"";
+        } else {
+          q += " tag:\"" + colours[i].text + "\" OR";
+        }
+    }
+    var type = document.querySelectorAll('#type option:checked');
+    var i;
+    for (i = 0; i < type.length; i++) {
+        if (i == type.length - 1) {
+          q += " tag:\"" + type[i].text + "\"";
+        } else {
+          q += " tag:\"" + type[i].text + "\" OR";
+        }
+    }
+    var monsterType = document.querySelectorAll('#monsterType option:checked');
+    var i;
+    for (i = 0; i < monsterType.length; i++) {
+        if (i == monsterType.length - 1) {
+          q += " tag:\"" + monsterType[i].text + "\"";
+        } else {
+          q += " tag:\"" + monsterType[i].text + "\" OR";
+        }
+    }
+    var rarities = document.querySelectorAll('#rarity option:checked');
+    var i;
+    for (i = 0; i < rarities.length; i++) {
+        if (i == rarities.length - 1) {
+          q += " tag:\"" + rarities[i].text + "\"";
+        } else {
+          q += " tag:\"" + rarities[i].text + "\" OR";
+        }
+    }
+    
+    searchQuery.value = q;
+  }
+
+  $(document).ready(function () {
+     // Load Games
+    /* return $.ajax({
+      url: "https://portal.binderpos.com/shopify/external/magic-magpie.myshopify.com/supportedGames",
+      type: "GET",
+      dataType: "json",
+      success: function (result) {
+        console.log(result);
+      }
+    }); */ 
+
+    var game = document.querySelector('#game');
+    var setSelector;
+    game.onchange = function () {
+      var gameValue = document.querySelector('#game').value;
+      if (gameValue == "") {
+        $("#set").empty();
+        var setSelect = document.querySelector('#set');
+        var raritySelect = document.querySelector('#rarity');
+        var rarityLabel = document.querySelector('label.rarity.title');
+        var setLabel = document.querySelector('label.set.title');
+        var colorSelect = document.querySelector('#colours');
+        var colorLabel = document.querySelector('label.color.title');
+        var typeSelect = document.querySelector('#type');
+        var typeLabel = document.querySelector('label.type.title');
+        var monsterTypeSelect = document.querySelector('#monsterType');
+        var monsterTypeLabel = document.querySelector('label.monsterType.title');
+        setSelect.hidden = true;
+        raritySelect.hidden = true;
+        colorSelect.hidden = true;
+        setLabel.classList.add("hidden");
+        colorLabel.classList.add("hidden");
+        typeSelect.hidden = true;
+        typeLabel.classList.add("hidden");
+        rarityLabel.classList.add("hidden");
+        monsterTypeSelect.hidden = true;
+        monsterTypeLabel.classList.add("hidden");
+      } else {
+        $.ajax({
+          url: "https://portal.binderpos.com/api/cards/" + gameValue + "/rarities",
+          type: "GET",
+          dataType: "json",
+          success: function (rarities) {
+            $("#rarity").empty();
+            var raritySelect = document.querySelector('#rarity');
+            var rarityLabel = document.querySelector('label.rarity.title');
+            rarityLabel.classList.add("hidden");
+            raritySelect.hidden = true;
+            if (rarities.length > 0) {
+              rarityLabel.classList.remove("hidden");
+              raritySelect.hidden = false;  
+              rarities.forEach(rarity => {
+                if (rarity != ""){
+                  var raritySelect = document.querySelector('#rarity');
+                  var opt = document.createElement('option');
+                  opt.appendChild(document.createTextNode(" "+ rarity));
+                  opt.value = rarity;
+                  raritySelect.appendChild(opt);
+                }
+              });
+           }
+            //Preselect if exisiting search
+            var existingSearch = document.querySelector('#currentSearch').value;
+            var tag = existingSearch.replace(/\"/g, '');
+            tag = tag.replace(/ OR /g, '');
+            tag = tag.split('tag:');
+            tag.forEach(tags => {
+              if (document.querySelector('#rarity [value="' + tags.trim() + '"]')) {
+                document.querySelector('#rarity [value="' + tags.trim() + '"]').selected = true;
+              }
+            });
+            var select = $('#rarity').select2();
+          }
+        });
+        $.ajax({
+          url: "https://portal.binderpos.com/api/cards/" + gameValue + "/sets",
+          type: "GET",
+          dataType: "json",
+          success: function (sets) {
+            $("#set").empty();
+            var setSelect = document.querySelector('#set');
+            var setLabel = document.querySelector('label.set.title');
+            setLabel.classList.remove("hidden");
+            setSelect.hidden = false;
+            var opt = document.createElement('option');
+            opt.appendChild(document.createTextNode('-- All Sets --'));
+            opt.value = "";
+            setSelect.appendChild(opt);
+            sets.forEach(set => {
+              var setSelect = document.querySelector('#set');
+              var opt = document.createElement('option');
+              opt.appendChild(document.createTextNode(set.substring(0, 24)));
+              opt.value = set;
+              setSelect.appendChild(opt);
+            });
+            //Preselect if exisiting search
+            var existingSearch = document.querySelector('#currentSearch').value;
+            var tag = existingSearch.replace(/\"/g, '');
+            tag = tag.replace(/ OR /g, '');
+            tag = tag.split('tag:');
+            tag.forEach(tags => {
+              if (document.querySelector('#set [value="' + tags.trim() + '"]')) {
+                document.querySelector('#set [value="' + tags.trim() + '"]').selected = true;
+              }
+            });
+            var select = $('#set').select2();
+          }
+        });
+        $.ajax({
+          url: "https://portal.binderpos.com/api/cards/" + gameValue + "/colors",
+          type: "GET",
+          dataType: "json",
+          success: function (colors) {
+            $("#colours").empty();
+            var colourSelect = document.querySelector('#colours');
+            var colourLabel = document.querySelector('label.color.title');
+            colourLabel.classList.add("hidden");
+            colourSelect.hidden = true;
+            if (colors.length > 0) {
+              colourLabel.classList.remove("hidden");
+              colourSelect.hidden = false;  
+              colors.forEach(color => {
+                if (color.value != ""){
+                  var colourSelect = document.querySelector('#colours');
+                  var opt = document.createElement('option');
+                  opt.appendChild(document.createTextNode(" "+ color.value));
+                  opt.value = color.value;
+                  colourSelect.appendChild(opt);
+                }
+              });
+           }
+            //Preselect if exisiting search
+            var existingSearch = document.querySelector('#currentSearch').value;
+            var tag = existingSearch.replace(/\"/g, '');
+            tag = tag.replace(/ OR /g, '');
+            tag = tag.split('tag:');
+            tag.forEach(tags => {
+              if (document.querySelector('#colours [value="' + tags.trim() + '"]')) {
+                document.querySelector('#colours [value="' + tags.trim() + '"]').selected = true;
+              }
+            });
+            var select = $('#colours').select2();
+          }
+        });
+        //Types
+        $.ajax({
+          url: "https://portal.binderpos.com/api/cards/" + gameValue + "/types",
+          type: "GET",
+          dataType: "json",
+          success: function (types) {
+            $("#type").empty();
+            var typeSelect = document.querySelector('#type');
+            var typeLabel = document.querySelector('label.type.title');
+            typeLabel.classList.add("hidden");
+            typeSelect.hidden = true;
+            if (types.length > 0) {
+              typeLabel.classList.remove("hidden");
+              typeSelect.hidden = false;  
+              types.forEach(type => {
+                if (type.value != ""){
+                  var typeSelect = document.querySelector('#type');
+                  var opt = document.createElement('option');
+                  opt.appendChild(document.createTextNode(" "+ type.value));
+                  opt.value = type.value;
+                  typeSelect.appendChild(opt);
+                }
+              });
+           }
+            //Preselect if exisiting search
+            var existingSearch = document.querySelector('#currentSearch').value;
+            var tag = existingSearch.replace(/\"/g, '');
+            tag = tag.replace(/ OR /g, '');
+            tag = tag.split('tag:');
+            tag.forEach(tags => {
+              if (document.querySelector('#type [value="' + tags.trim() + '"]')) {
+                document.querySelector('#type [value="' + tags.trim() + '"]').selected = true;
+              }
+            });
+            var select = $('#type').select2();
+          }
+        });
+        //MonsterTypes
+        $.ajax({
+          url: "https://portal.binderpos.com/api/cards/" + gameValue + "/monsterTypes",
+          type: "GET",
+          dataType: "json",
+          success: function (monsterTypes) {
+            console.log(monsterTypes);
+            $("#monsterType").empty();
+            var monsterTypeSelect = document.querySelector('#monsterType');
+            var monsterTypeLabel = document.querySelector('label.monsterType.title');
+            monsterTypeLabel.classList.add("hidden");
+            monsterTypeSelect.hidden = true;
+            if (monsterTypes.length > 0) {
+              monsterTypeLabel.classList.remove("hidden");
+              monsterTypeSelect.hidden = false;  
+              monsterTypes.forEach(monsterType => {
+                if (monsterType.value != ""){
+                  var monsterTypeSelect = document.querySelector('#monsterType');
+                  var opt = document.createElement('option');
+                  opt.appendChild(document.createTextNode(" "+ monsterType.value));
+                  opt.value = monsterType.value;
+                  monsterTypeSelect.appendChild(opt);
+                }
+              });
+           }
+            //Preselect if exisiting search
+            var existingSearch = document.querySelector('#currentSearch').value;
+            var tag = existingSearch.replace(/\"/g, '');
+            tag = tag.replace(/ OR /g, '');
+            tag = tag.split('tag:');
+            tag.forEach(tags => {
+              if (document.querySelector('#monsterType [value="' + tags.trim() + '"]')) {
+                document.querySelector('#monsterType [value="' + tags.trim() + '"]').selected = true;
+              }
+            });
+            var select = $('#monsterType').select2();
+          }
+        });
+      }
+    };
+
+    //Pre build exisiting search
+    var existingSearch = document.querySelector('#currentSearch').value;
+
+    // Find Card Name
+    var name = existingSearch.split('*');
+    var name = name[0];
+    document.querySelector('#cardName').value = name;
+
+    // Find Card Type
+    var typeFound = false;
+    typeFound = existingSearch.includes("product_type");
+    if (typeFound) {
+      var type = existingSearch.split('product_type:\"');
+      type = type[1].split('\"');
+      type = type[0];
+      document.querySelector('#game [value="' + type + '"]').selected = true;
+      var gameSel = document.querySelector('#game');
+      // Runs onchange function
+      gameSel.onchange();
+    };
+
+    // Search when Enter key is pressed
+    $('#cardName').keydown(function (event) {
+      if (event.keyCode == 13) {
+        buildSearch();
+      }
+    });
+  });
+
+</script>
+            </div>
+            <div class="col-lg-9">
+                
+
+                    <hr class="hr--clear">
+                    <div class="row">
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="buyWrapper">
+            
+            
+            
+            
+            
+            
+            
+
+            <div onclick="addToCart('32268660768871','Arid Mesa [Zendikar Expeditions] - Lightly Played Foil','1',1)"
+                class="addNow single">
+                
+                <p>Lightly Played Foil - $254.85</p>
+                <span class="addBtn"><i class="fas fa-cart-plus"></i></span>
+                
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="view"><a class="productLink" href="/products/mtg-arid-mesazendikar-expeditions?_pos=1&_sid=9fd7ba953&_ss=r"> <i
+                        class="far fa-eye"></i> View this Product</a></div>
+        </div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/21a739c8-d7ca-4204-9398-c47fd1d68447_large.jpg?v=1588219237" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Zendikar Expeditions]</p>
+    
+    
+    <p class="productPrice">
+        
+        
+        
+        
+        $254.85
+        
+        
+        
+        
+        
+        
+        
+        
+    </p>
+    
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/mtg-arid-mesazendikar-expeditions?_pos=1&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/21a739c8-d7ca-4204-9398-c47fd1d68447_large.jpg?v=1588219237" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Zendikar Expeditions]</p>
+        
+        <div class="buyWrapper">
+            
+            
+            
+            
+            
+            
+            
+
+            <div onclick="addToCart('32268660768871','Arid Mesa [Zendikar Expeditions] - Lightly Played Foil','1',1)"
+                class="addNow single">
+                <p>Add 1x Lightly Played Foil ($254.85) to Cart</p>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+        
+        
+        
+        <p class="productPrice">
+            
+            
+            
+            
+            $254.85
+            
+            
+            
+            
+            
+            
+            
+            
+        </p>
+        
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/mtg-arid-mesazendikar?_pos=2&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/16c8d2fa-54a7-46e8-980c-905258497c90_large.jpg?v=1588218191" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Zendikar]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/mtg-arid-mesazendikar?_pos=2&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/16c8d2fa-54a7-46e8-980c-905258497c90_large.jpg?v=1588218191" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Zendikar]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-modern-horizons-2?_pos=3&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/8b2fb1104ddbabec8641f5641a333f2c_large.jpg?v=1637021005" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Modern Horizons 2]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-modern-horizons-2?_pos=3&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/8b2fb1104ddbabec8641f5641a333f2c_large.jpg?v=1637021005" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Modern Horizons 2]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/mtg-arid-mesamodern-masters-2017?_pos=4&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/c9a8cc61-7e36-4df7-9c89-c32fce129c5a_large.jpg?v=1588577462" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Modern Masters 2017]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/mtg-arid-mesamodern-masters-2017?_pos=4&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/c9a8cc61-7e36-4df7-9c89-c32fce129c5a_large.jpg?v=1588577462" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Modern Masters 2017]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-extended-modern-horizons-2?_pos=5&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/26081ff5-bcb8-5a15-83ef-16995e2b8c30_bfe2a299-33b5-46b1-9853-3eafdc533495_large.png?v=1629305695" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa (Extended) <br>[Modern Horizons 2]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-extended-modern-horizons-2?_pos=5&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/26081ff5-bcb8-5a15-83ef-16995e2b8c30_bfe2a299-33b5-46b1-9853-3eafdc533495_large.png?v=1629305695" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa (Extended) <br>[Modern Horizons 2]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-timeshifted-modern-horizons-2?_pos=6&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/79d57191-0087-521a-a1ba-97e7b93b9049_d0bdd17f-a584-4bab-ad26-59fee819521d_large.png?v=1629305696" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa (Retro) <br>[Modern Horizons 2]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-timeshifted-modern-horizons-2?_pos=6&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/79d57191-0087-521a-a1ba-97e7b93b9049_d0bdd17f-a584-4bab-ad26-59fee819521d_large.png?v=1629305696" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa (Retro) <br>[Modern Horizons 2]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-zendikar-rising-expeditions?_pos=7&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/b51e2b55-ab2b-50b2-92b0-1f6bbac3df16_e484f3f8-8814-4869-860f-63b461cf0449_large.jpg?v=1637016902" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa (Expeditions) <br>[Zendikar Rising Expeditions]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-zendikar-rising-expeditions?_pos=7&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/b51e2b55-ab2b-50b2-92b0-1f6bbac3df16_e484f3f8-8814-4869-860f-63b461cf0449_large.jpg?v=1637016902" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa (Expeditions) <br>[Zendikar Rising Expeditions]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/mtg-arid-mesasecret-lair-ultimate-edition?_pos=8&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/81ad48fa-9464-40bf-8bf5-af31a6a38fb3_large.jpg?v=1588588650" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Secret Lair: Ultimate Edition]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/mtg-arid-mesasecret-lair-ultimate-edition?_pos=8&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/81ad48fa-9464-40bf-8bf5-af31a6a38fb3_large.jpg?v=1588588650" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Secret Lair: Ultimate Edition]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-prerelease-modern-horizons-2-prerelease-promos?_pos=9&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/fd570d5c-ec2a-5357-90d5-4b225f3767fb_d74cc73c-4b38-422c-acd0-cb007c4b1c2a_large.jpg?v=1629894816" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa <br>[Modern Horizons 2 Prerelease Promos]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-prerelease-modern-horizons-2-prerelease-promos?_pos=9&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/fd570d5c-ec2a-5357-90d5-4b225f3767fb_d74cc73c-4b38-422c-acd0-cb007c4b1c2a_large.jpg?v=1629894816" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa <br>[Modern Horizons 2 Prerelease Promos]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                
+
+
+
+
+
+
+
+
+
+
+
+<div class="product Norm">
+    <div class="hoverMask">
+        
+        <div class="view"><a class="productLink-NoStock" href="/products/arid-mesa-retro-etched-foil-modern-horizons-2?_pos=10&_sid=9fd7ba953&_ss=r"> <i
+                    class="far fa-eye"></i> View this Product</a></div>
+        
+    </div>
+    <div class="imgWrapper mobile">
+        <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+        <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+        <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/79d57191-0087-521a-a1ba-97e7b93b9049_large.png?v=1635988664" />
+        
+    </div>
+    
+    <p class="productTitle">
+        Arid Mesa (Retro Etched Foil) <br>[Modern Horizons 2]</p>
+    
+    <p class="productPrice">
+        
+        Sold Out
+        
+    </p>
+    
+</div>
+<div class="product Mob">
+    <div class="mobileProductDisplay">
+        <a class="productLink" href="/products/arid-mesa-retro-etched-foil-modern-horizons-2?_pos=10&_sid=9fd7ba953&_ss=r">
+            <div class="imgWrapper">
+                <img class="soldout" src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/soldout.png?v=31498057172071669821588216155">
+                <div class="favourite"><i class="far fa-star"></i><i class="fas fa-star"></i></div>
+                <img class="items-even" src="//cdn.shopify.com/s/files/1/0284/2411/0183/products/79d57191-0087-521a-a1ba-97e7b93b9049_large.png?v=1635988664" />
+                
+            </div>
+        </a>
+        
+        <p class="productTitle">
+            Arid Mesa (Retro Etched Foil) <br>[Modern Horizons 2]</p>
+        
+        
+        <p class="productPrice">
+            
+            Sold Out
+            
+        </p>
+        
+    </div>
+</div>
+                            </div>
+                        
+                    </div>
+
+                    
+
+                
+            </div>
+        </div>
+    
+
+
+      </div>
+    </div>
+    
+
+    <div id="shopify-section-footer" class="shopify-section"><!-- Footer -->
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <p class="title">About</p>
+        <ul>
+          
+          
+          <li><a href="#buylist">Buylist</a></li>
+          <li><a href="/collections/events">Instore Events</a></li>
+          <li><a href="/pages/contact-us">Contact Us</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <p class="title">Support</p>
+        <ul>
+          
+          <li><a href="/policies/terms-of-service">Terms & Conditions</a></li>
+          <li><a href="/policies/refund-policy">Return Policy</a></li>
+          <li><a href="/policies/privacy-policy">Privacy Policy</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <p class="title">Hours</p>
+        <p class="hours">9.00am - 8.00pm Daily</p>
+      </div>
+      <div class="col-md-3">
+        <p class="title">Get in Touch</p>
+        
+        <p class="phone">
+          Phone: <a href="tel:022 105 7586  ">022 105 7586  </a>
+        </p>
+        
+        <p class="email">
+          Email: <a href="mailto:theMTGmagpie@gmail.com">theMTGmagpie@gmail.com</a>
+        </p>
+        
+        
+        <div class="socialIcons"><div class="socialIcons">
+
+
+  <a target="_blank" href="https://www.facebook.com/MTGMagpie">
+    <i class="fab fa-facebook-square"></i>
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+  <a target="_blank" href="#">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+
+
+
+
+
+
+</div>
+
+</div>        
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="copyright">
+     &copy; 2023 Magic Magpie. All rights Reserved . Powered by <a href="https://binderpos.com" target="_blank">BinderPOS</a><br />
+     <span class="paymentTypes">
+     
+          <img alt="american_express" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/american_express-2264c9b8b57b23b0b0831827e90cd7bcda2836adc42a912ebedf545dead35b20.svg" width="40" />
+        
+          <img alt="apple_pay" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/apple_pay-f6db0077dc7c325b436ecbdcf254239100b35b70b1663bc7523d7c424901fa09.svg" width="40" />
+        
+          <img alt="google_pay" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg" width="40" />
+        
+          <img alt="master" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg" width="40" />
+        
+          <img alt="shopify_pay" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/shopify_pay-100fde795157a3d1c18042346cf8dbd1fcf4c4f53c20064e13ea2799eb726655.svg" width="40" />
+        
+          <img alt="unionpay" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/unionpay-8aedb760a6bde56bc2e3bbfd40bc008f1b0967a9f5863ecfbe855d54bde81ea6.svg" width="40" />
+        
+          <img alt="visa" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg" width="40" />
+        
+      </span>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+</div>
+
+    <!-- begin site-footer -->
+
+    <!-- //site-footer -->
+  </div>
+  
+    
+  
+
+  
+  <a id="binderpos-open-decklist" data-iframe="true" onclick='showDecklist()''>Decklist</a>
+  
+
+  <div id="decklistOpened" class="hide">
+    <div id="decklistWrapper">
+      <h2 class="decklist-title">Buy a Deck</h2>
+      <a id="decklist-close-button" style="position: absolute; left: 14px;">X</a>
+      <div id="deckListBody">
+
+      </div>      
+      <div id="decklistAction">
+      <button>Submit deck list</button>
+      </div>
+      <div id="savedLoader" class="hidden">
+        <div class="custom-loader">
+            <div class="dice">
+                <div class="face first-face"><img src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loader1.jpg?v=156940925555444009791588216154" class="card-img-loader first" alt="Loader Card 1"></div>
+                <div class="face first-face"><img src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loader2.jpg?v=77817462029294442571588216154" class="card-img-loader second" alt="Loader Card 2"></div>
+                <div class="face first-face"><img src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loader3.jpg?v=72812658668293543721588216143" class="card-img-loader third" alt="Loader Card 3"></div>
+                <div class="face first-face"><img src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loader4.jpg?v=102917713858166613211588216191" class="card-img-loader fourth" alt="Loader Card 4"></div>
+                <div class="face first-face"><img src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/loader5.jpg?v=180874105526339591461588216191" class="card-img-loader fifth" alt="Loader Card 5"></div>
+            </div>
+            <p>Searching... Please wait</p>
+        </div>
+    </div>
+    </div>
+  </div>
+  
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/fastclick.min.js?v=29723458539410922371588216141" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+   
+  
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/binderpos.js?v=144146880676934574561593676905" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/perfect-scrollbar.jquery.js?v=166569491640369352551588216206" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/binderpos-slider.js?v=148771845746266670341588216166" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/lightbox.js?v=101146853401683470671588216162" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0284/2411/0183/t/2/assets/jquery.cart.min.js?v=30020690315333423871588216138" type="text/javascript"></script>
+  <script src="https://cdn.binderpos.com/eventCalendar.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js" type="text/javascript"></script>
+  
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+   <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/js/select2.min.js"></script>
+   
+  
+  <!-- jQuery for rs-slider -->
+  
+    
+    <script>
+      
+    </script>
+
+
+    <script>jQuery(function () { jQuery('.swatch :radio').change(function () { var optionIndex = jQuery(this).closest('.swatch').attr('data-option-index'); var optionValue = jQuery(this).val(); jQuery(this).closest('form').find('.single-option-selector').eq(optionIndex).val(optionValue).trigger('change'); }); });</script>
+    
+</body>
+
+</html>

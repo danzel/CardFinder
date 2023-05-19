@@ -100,6 +100,17 @@ public class BinderPosScraperLiveTests : LiveTestsBase
 	}
 
 	[Fact]
+	public async Task HobbyLords()
+	{
+		var scraper = new BinderPosScraper(Logger.CreateLogger<BinderPosScraper>(), DirectHttpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.HobbyLordsCoNz);
+
+		var cards = await scraper.Scrape("Phyrexian Arena");
+
+		Assert.NotEmpty(cards); //This site returns only cards they have in stock I think, so this will eventually break and need pointing at another card
+		Console.WriteLine($"Found {cards.Length} cards");
+	}
+
+	[Fact]
 	public async Task IronKnightGamingCoNz()
 	{
 		var scraper = new BinderPosScraper(Logger.CreateLogger<BinderPosScraper>(), DirectHttpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.IronKnightGamingCoNz);
@@ -125,6 +136,28 @@ public class BinderPosScraperLiveTests : LiveTestsBase
 	public async Task MagicAtWillisCoNz()
 	{
 		var scraper = new BinderPosScraper(Logger.CreateLogger<BinderPosScraper>(), DirectHttpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MagicAtWillisCoNz);
+
+		var cards = await scraper.Scrape("Arid Mesa");
+
+		Assert.NotEmpty(cards);
+		Console.WriteLine($"Found {cards.Length} cards");
+	}
+
+	[Fact]
+	public async Task MtgMagpieCom()
+	{
+		var scraper = new BinderPosScraper(Logger.CreateLogger<BinderPosScraper>(), DirectHttpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.MtgMagpieCom);
+
+		var cards = await scraper.Scrape("Arid Mesa");
+
+		Assert.NotEmpty(cards);
+		Console.WriteLine($"Found {cards.Length} cards");
+	}
+
+	[Fact]
+	public async Task NovaGamesCoNz()
+	{
+		var scraper = new BinderPosScraper(Logger.CreateLogger<BinderPosScraper>(), DirectHttpClient, new BinderPosConditionParser(), new BinderPosTreatmentParser(), BinderPosConfiguration.NovaGamesCoNz);
 
 		var cards = await scraper.Scrape("Arid Mesa");
 

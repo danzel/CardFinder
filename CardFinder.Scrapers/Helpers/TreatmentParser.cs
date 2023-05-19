@@ -38,6 +38,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"jpn alternate art" => Treatment.JapaneseAlternateArt,
 				"jp alternate art" => Treatment.JapaneseAlternateArt,
 				"non english" => Treatment.NonEnglish,
+				"non foil" => 0,
 				"not tournament legal" => Treatment.NotTournamentLegal,
 				"oversized" => Treatment.Oversized,
 				"phyrexian" => Treatment.Phyrexian,

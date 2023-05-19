@@ -46,7 +46,7 @@ public class BinderPosScraper : IScraper
 
 		foreach (var div in productDivs)
 		{
-			var (cardName, treatment, set) = CardNameHelpers.SplitCardNameAndBracketedText(div.QuerySelector(_configuration.ProductTitleSelector)!.TextContent.Trim());
+			var (cardName, treatment, set) = _configuration.SplitCardNameAndBracketedText(div.QuerySelector(_configuration.ProductTitleSelector)!.TextContent.Trim());
 
 			if (!CardNameHelpers.CardNameMatches(searchCardName, cardName))
 			{
