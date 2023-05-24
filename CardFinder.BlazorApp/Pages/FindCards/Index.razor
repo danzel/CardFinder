@@ -11,22 +11,47 @@
 @if(_solverContext != null && _solverContext.Solution != null)
 {
 	var s = _solverContext.Solution;
-	foreach (var c in s.Cards)
-	{
-		<MudText Typo="Typo.h5">@c.Key</MudText>
-		@foreach (var v in c.Value)
-		{
-			<li>@(v.Store.Name + " / " + v.Card.Treatment + " @ " + v.Amount + " x $" + v.Card.Price)</li>
-		}
-	}
-	<hr/>
-	foreach (var g in _solverContext.CardsAtEachStore.SelectMany(kvp => kvp.Value.SelectMany(x => x).Select(x => (kvp.Key, x))).GroupBy(x => x.x.CardName))
-	{
-		<MudText Typo="Typo.h5">@g.Key</MudText>
-		@foreach (var c in g)
-		{
-			<li>@(c.Key.Name + " / " + c.x.Set + " (" + c.x.Treatment + ") @ " + c.x.Stock + " x $" + c.x.Price)</li>
-		}
 
-	}
+	<MudTabs>
+		<MudTabPanel Text="Solution">
+			@foreach (var c in s.Cards)
+			{
+				<MudText Typo="Typo.h5">@c.Key</MudText>
+				@foreach (var v in c.Value)
+				{
+					<li>@(v.Store.Name + " / " + v.Card.Treatment + " @ " + v.Amount + " x $" + v.Card.Price)</li>
+				}
+			}
+		</MudTabPanel>
+		<MudTabPanel Text="By Card">
+			@{
+				var cards = _solverContext.CardsAtEachStore!.SelectMany(kvp => kvp.Value.SelectMany(x => x).Select(x => (kvp.Key, x))).Select(x => new StoreAndCard(x.Key, x.x));
+			}
+			<MudTable Items="@cards" Hover="true" SortLabel="Sort By" Filter="new Func<StoreAndCard, bool>(Filter)">
+				<ToolBarContent>
+					<MudText Typo="Typo.h6">Results</MudText>
+					<MudSpacer />
+					<MudTextField @bind-Value="_filter" Placeholder="Filter" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+				</ToolBarContent>
+				<HeaderContent>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.ProductUrl ?? string.Empty)">Url</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Stock)">Stock</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Set)">Set</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Treatment)">Treatment</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Price)">Price</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Store.Name)">Store</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.ImageUrl ?? string.Empty)">Image</MudTableSortLabel></MudTh>
+				</HeaderContent>
+				<RowTemplate>
+					<MudTd DataLabel="Url"><a href="@context.Card.ProductUrl">Link</a></MudTd>
+					<MudTd DataLabel="Store">@context.Store.Name</MudTd>
+					<MudTd DataLabel="Set">@context.Card.Set</MudTd>
+					<MudTd DataLabel="Treatment">@context.Card.Treatment</MudTd>
+					<MudTd DataLabel="Price">@context.Card.Price</MudTd>
+					<MudTd DataLabel="Stock">@context.Card.Stock</MudTd>
+					<MudTd DataLabel="Image"><img src="@context.Card.ImageUrl" style="width: 80px" /></MudTd>
+				</RowTemplate>
+			</MudTable>
+		</MudTabPanel>
+	</MudTabs>
 }

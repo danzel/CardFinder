@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Components;
 
 namespace CardFinder.BlazorApp.Pages.FindCards;
 
+public record StoreAndCard(Store Store, CardDetails Card);
+
 public partial class Index
 {
 	[Inject]
@@ -15,6 +17,8 @@ public partial class Index
     private SolverContext? _solverContext = null;
 	private string? _solverStatus;
 	private double? _solvedPercent;
+
+	private string _filter = "";
 
     async Task PerformSearch()
     {
@@ -58,5 +62,20 @@ public partial class Index
         {
             _isWorking = false;
         }
+	}
+
+	private bool Filter(StoreAndCard item)
+	{
+		foreach (var filter in _filter.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
+		{
+			if (!( 
+				item.Store.Name.Contains(filter, StringComparison.InvariantCultureIgnoreCase) ||
+				item.Card.Set.Contains(filter, StringComparison.InvariantCultureIgnoreCase) ||
+				item.Card.Treatment.ToString().Contains(filter, StringComparison.InvariantCultureIgnoreCase)))
+			{
+				return false;
+			}
+		}
+		return true;
 	}
 }
