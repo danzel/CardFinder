@@ -42,6 +42,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"not tournament legal" => Treatment.NotTournamentLegal,
 				"oversized" => Treatment.Oversized,
 				"phyrexian" => Treatment.Phyrexian,
+				"promo" => Treatment.PromoPack, //TODO: Needs another type
 				"promo pack" => Treatment.PromoPack,
 				"retro" => Treatment.RetroFrame,
 				"retro etched foil" => Treatment.RetroFrame | Treatment.Etched | Treatment.Foil,
@@ -49,10 +50,12 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"retro frame" => Treatment.RetroFrame,
 				"showcase" => Treatment.Showcase,
 				"showcase textured" => Treatment.Showcase | Treatment.Textured,
+				"showcase soft glow" => Treatment.Showcase,
 				"step-and-compleat foil" => Treatment.Foil, //TODO: Needs another foil type
 				"step-and-complete foil" => Treatment.Foil, //TODO: Needs another foil type
 				"textless" => Treatment.Textless,
 				"textured foil" => Treatment.Textured | Treatment.Foil,
+				"timeshifted" => Treatment.Timeshifted,
 				_ => CustomParse(treatment.ToLowerInvariant())
 			};
 		}

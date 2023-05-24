@@ -57,6 +57,8 @@ public class BayDragonCoNzScraper : IScraper
 				set += " " + string.Join(", ", treatments);
 				treatments = Array.Empty<string>();
 			}
+			//Treatments can have commas "foil, promo"
+			treatments = treatments.SelectMany(t => t.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)).ToArray();
 
 
 			results.Add(new CardDetails
