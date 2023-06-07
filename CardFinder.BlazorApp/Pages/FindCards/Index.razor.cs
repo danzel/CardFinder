@@ -70,6 +70,7 @@ public partial class Index
 		{
 			if (!( 
 				item.Store.Name.Contains(filter, StringComparison.InvariantCultureIgnoreCase) ||
+				item.Card.CardName.Contains(filter, StringComparison.InvariantCultureIgnoreCase) ||
 				item.Card.Set.Contains(filter, StringComparison.InvariantCultureIgnoreCase) ||
 				item.Card.Treatment.ToString().Contains(filter, StringComparison.InvariantCultureIgnoreCase)))
 			{

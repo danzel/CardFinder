@@ -35,16 +35,18 @@
 				</ToolBarContent>
 				<HeaderContent>
 					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.ProductUrl ?? string.Empty)">Url</MudTableSortLabel></MudTh>
-					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Stock)">Stock</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Store.Name)">Store</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.CardName)">Card</MudTableSortLabel></MudTh>
 					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Set)">Set</MudTableSortLabel></MudTh>
 					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Treatment)">Treatment</MudTableSortLabel></MudTh>
 					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Price)">Price</MudTableSortLabel></MudTh>
-					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Store.Name)">Store</MudTableSortLabel></MudTh>
+					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.Stock)">Stock</MudTableSortLabel></MudTh>
 					<MudTh><MudTableSortLabel SortBy="new Func<StoreAndCard, object>(x => x.Card.ImageUrl ?? string.Empty)">Image</MudTableSortLabel></MudTh>
 				</HeaderContent>
 				<RowTemplate>
 					<MudTd DataLabel="Url"><a href="@context.Card.ProductUrl">Link</a></MudTd>
 					<MudTd DataLabel="Store">@context.Store.Name</MudTd>
+					<MudTd DataLabel="Card">@context.Card.CardName</MudTd>
 					<MudTd DataLabel="Set">@context.Card.Set</MudTd>
 					<MudTd DataLabel="Treatment">@context.Card.Treatment</MudTd>
 					<MudTd DataLabel="Price">@context.Card.Price</MudTd>
