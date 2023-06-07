@@ -94,7 +94,7 @@ public class SolverContext
 			if (sum < card.Amount)
 			{
 				notEnough ??= new List<string>();
-				notEnough.Add($"{card.Amount}, need {card.CardName}, found {sum}");
+				notEnough.Add($"need {card.Amount} {card.CardName}, found {sum}");
 			}
 		}
 		if (notEnough != null)
