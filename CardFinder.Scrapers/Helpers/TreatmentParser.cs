@@ -23,6 +23,8 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"borderless concept praetors step-and-compleat foil" => Treatment.Borderless | Treatment.Showcase | Treatment.Foil, //TODO: Needs another foil type
 				"borderless ichor step-and-compleat foil" => Treatment.Borderless | Treatment.Showcase | Treatment.Foil, //TODO: Needs another foil type
 				"borderless ichor" => Treatment.Borderless | Treatment.Showcase,
+				"buy a box" => Treatment.Showcase, //TODO: Another type?
+				"buy-a-box" => Treatment.Showcase, //TODO: Another type?
 				"concept praetor" => Treatment.Showcase,
 				"etched foil" => Treatment.Etched | Treatment.Foil,
 				"expeditions" => Treatment.Expeditions,
@@ -39,6 +41,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"jp alternate art" => Treatment.JapaneseAlternateArt,
 				"non english" => Treatment.NonEnglish,
 				"non foil" => 0,
+				"non-foil" => 0,
 				"not tournament legal" => Treatment.NotTournamentLegal,
 				"oversized" => Treatment.Oversized,
 				"phyrexian" => Treatment.Phyrexian,

@@ -79,12 +79,12 @@ public class BinderPosScraper : IScraper
 					break;
 				case BinderPosParseMode.StockInOnClickJs:
 					if (set.Length != 1)
-						throw new NotImplementedException($"Found more than one text in square brackets: '{string.Join(',', set)}'");
+						throw new NotImplementedException($"Found less/more than one text in square brackets: '{string.Join(',', set)}'");
 					ParseStockInOnClickJs(ref results, cardName, div, treatment, set[0], currency);
 					break;
 				case BinderPosParseMode.StockInOptionsDropdown:
 					if (set.Length != 1)
-						throw new NotImplementedException($"Found more than one text in square brackets: '{string.Join(',', set)}'");
+						throw new NotImplementedException($"Found less/more than one text in square brackets: '{string.Join(',', set)}'");
 					ParseStockInOptionsDropdown(ref results, cardName, div, treatment, set[0], currency);
 					break;
 				default:
@@ -252,7 +252,7 @@ public class BinderPosScraper : IScraper
 	/// </summary>
 	private static void HandleSpecialSets(ref string[] treatment, ref string set)
 	{
-		if (set.Equals("Pro Tour Collector Set", StringComparison.InvariantCultureIgnoreCase) || set.Equals("World Championship Decks 2000", StringComparison.InvariantCultureIgnoreCase))
+		if (set.Equals("Pro Tour Collector Set", StringComparison.InvariantCultureIgnoreCase) || set.StartsWith("World Championship Decks ", StringComparison.InvariantCultureIgnoreCase))
 		{
 			set = set + " " + string.Join(" ", treatment);
 			treatment = Array.Empty<string>();

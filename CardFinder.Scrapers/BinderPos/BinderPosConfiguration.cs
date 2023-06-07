@@ -135,14 +135,19 @@ public record BinderPosConfiguration
 
 		SplitCardNameAndBracketedText = (cardName) =>
 		{
-			//Phyrexian Arena - Phyrexia: All Will Be One (ONE) - Foil - Coll # 283
 			var split = cardName.Split(" - ");
 
-			if (split.Length != 4)
-				return (cardName, Array.Empty<string>(), Array.Empty<string>());
-
+			//Phyrexian Arena - Phyrexia: All Will Be One (ONE) - Foil - Coll # 283
 			//Name in 0, treatment in 2, set in 1
-			return (split[0], new[] { split[2] }, new[] { split[1] } ); 
+			if (split.Length == 4)
+				return (split[0], new[] { split[2] }, new[] { split[1] } ); 
+
+			//Clearwater Pathway // Murkwater Pathway - Secret Lair: Ultimate Edition - (SLU) - Foil - Coll # 15
+			//Name in 0, treatment in 3, set in 1 (set code in 2, ignored)
+			if (split.Length == 5)
+				return (split[0], new[] { split[3] }, new[] { split[1] });
+
+			return (cardName, Array.Empty<string>(), Array.Empty<string>());
 		}
 	};
 
