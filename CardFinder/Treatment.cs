@@ -43,4 +43,5 @@ public enum Treatment
 	Expeditions = 1 << 19,
 	Phyrexian = 1 << 20,
 	Schematic = 1 << 21,
+	SerialNumbered = 1 << 22,
 }

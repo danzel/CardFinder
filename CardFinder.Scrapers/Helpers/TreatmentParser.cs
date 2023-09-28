@@ -51,7 +51,13 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"retro etched foil" => Treatment.RetroFrame | Treatment.Etched | Treatment.Foil,
 				"retro foil etched" => Treatment.RetroFrame | Treatment.Foil | Treatment.Etched,
 				"retro frame" => Treatment.RetroFrame,
+				"retro schematic" => Treatment.RetroFrame | Treatment.Schematic,
+				"schematic" => Treatment.Schematic,
+				"serial numbered" => Treatment.SerialNumbered,
+				"serialized" => Treatment.SerialNumbered,
 				"showcase" => Treatment.Showcase,
+				"showcase art deco" => Treatment.Showcase,
+				"showcase art deco foil etched" => Treatment.Showcase | Treatment.Foil | Treatment.Etched,
 				"showcase textured" => Treatment.Showcase | Treatment.Textured,
 				"showcase soft glow" => Treatment.Showcase,
 				"step-and-compleat foil" => Treatment.Foil, //TODO: Needs another foil type
