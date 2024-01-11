@@ -42,6 +42,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"non english" => Treatment.NonEnglish,
 				"non foil" => 0,
 				"non-foil" => 0,
+				"normal" => 0,
 				"not tournament legal" => Treatment.NotTournamentLegal,
 				"oversized" => Treatment.Oversized,
 				"phyrexian" => Treatment.Phyrexian,
@@ -62,6 +63,7 @@ public class DefaultTreatmentParser : ITreatmentParser
 				"showcase soft glow" => Treatment.Showcase,
 				"step-and-compleat foil" => Treatment.Foil, //TODO: Needs another foil type
 				"step-and-complete foil" => Treatment.Foil, //TODO: Needs another foil type
+				"surge foil" => Treatment.Foil, //TODO: Needs another foil type
 				"textless" => Treatment.Textless,
 				"textured foil" => Treatment.Textured | Treatment.Foil,
 				"timeshifted" => Treatment.Timeshifted,
